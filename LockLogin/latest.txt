@@ -1,0 +1,4 @@
+2.0.8
+- Changed the way the
+  plugin retrieves updates
+  (versions and changelogs)
