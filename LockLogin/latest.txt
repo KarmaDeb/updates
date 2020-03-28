@@ -1,4 +1,4 @@
-2.0.8
+2.0.9
 - Changed the way the
   plugin retrieves updates
   (versions and changelogs)
