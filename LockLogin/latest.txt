@@ -1,5 +1,8 @@
-2.0.9
-- Finally fixed the /reply
-  command wasn't able to be
-  executed due register command
-  alias
+2.1.0
+- Added login spawn on Spigot
+- Now you are not able to see other
+  players if you are not logged, registered
+  or verified
+- You can see now your gAuth token on the QR
+  scan page
+- Fixed some bugs with IP System
