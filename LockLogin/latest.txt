@@ -1,8 +1,4 @@
-2.1.0
-- Added login spawn on Spigot
-- Now you are not able to see other
-  players if you are not logged, registered
-  or verified
-- You can see now your gAuth token on the QR
-  scan page
-- Fixed some bugs with IP System
+2.1.1
+- Optimized bungeecord and
+  spigot features (read the update
+  entry in Spigot to know more)
