@@ -4,3 +4,8 @@
   get kicked when the plugin
   loads with a third-party plugin
   loader
+- The plugin will migrate players
+  yaml data automatically to 
+  MySQL
+- To migrate from MySQL to Yaml use
+  ll migrate
