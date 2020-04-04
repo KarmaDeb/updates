@@ -1,4 +1,6 @@
-2.1.1
-- Optimized bungeecord and
-  spigot features (read the update
-  entry in Spigot to know more)
+2.1.2
+- Added MySQL support
+- Now the players will
+  get kicked when the plugin
+  loads with a third-party plugin
+  loader
