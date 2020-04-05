@@ -1,11 +1,6 @@
-2.1.2
-- Added MySQL support
-- Now the players will
-  get kicked when the plugin
-  loads with a third-party plugin
-  loader
-- The plugin will migrate players
-  yaml data automatically to 
-  MySQL
-- To migrate from MySQL to Yaml use
-  ll migrate
+2.1.3
+- IMPORTANT BUG FIX
+- Fixed a bug in where LockLogin
+  was always trying to use MySQL
+  even if in the config was set
+  to use File system
