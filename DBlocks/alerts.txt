@@ -1,2 +1,2 @@
-_aNONE
-_eYay, there are not any alerts left
+_7INFO
+_cThe plugin won't have any translation
