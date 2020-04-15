@@ -1,6 +1,9 @@
-2.1.4
-- Now you can remove
-  offline players accounts.
-- Since now, by deleting a player
-  account, you will also remove
-  his data files or his MySQL data
+2.1.5
+- Fixed a problem related with 2fa
+- Fixed a problem related with account deletion
+- Fixed a problem realted with MySQL connection
+- Fixed a chinese translation message
+- Fixed players where able to receive damage from mobs
+- Optimized bungeecord and spigot code
+- Added the option to disable 2fa
+- Added fallback servers option in bungeecord
