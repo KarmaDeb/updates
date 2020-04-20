@@ -1,2 +1,2 @@
-_aNONE
-_eYay, there are not any alerts left
+_eWARNING
+_cRemember to update also LockLogin in your spigot instances if you are using BungeeCord
