@@ -1,9 +1,7 @@
-2.1.7
-- Fixed an error related with fly
-- Fixed some problems with MySQL
-- Fixed command aliases weren't working
-- Added reg and log as command aliases
-- Added API to Spigot
-- Added PlayerVerifyEvent for Bungee
-- Updated Spigot and BungeeCord API
-- Updated github commands wiki
+2.1.8
+- Added BungeeHack protection
+- Fixed a problem related with LockLogin
+  bungee API ( Player wasn't was sending
+  the lobby server )
+- Removed a debug message
+- Improvements over spawn system
