@@ -1,7 +1,3 @@
-2.1.8
-- Added BungeeHack protection
-- Fixed a problem related with LockLogin
-  bungee API ( Player wasn't was sending
-  the lobby server )
-- Removed a debug message
-- Improvements over spawn system
+2.1.9
+- Fixed a problem related with fly
+- Fixed a problem related with BungeeHack
