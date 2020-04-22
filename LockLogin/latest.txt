@@ -1,3 +1,7 @@
-2.1.9
-- Fixed a problem related with fly
-- Fixed a problem related with BungeeHack
+3.0.0
+- Fixed blind option wasn't working somethimes
+- Fixed console filter was not working with some commands
+- You can now manage spawn in BungeeCord mode (spigot config.yml)
+(Honestly, I don't recommend the next until is totally needed)
+- Added the posibility to add alloed cmds before login or verifying
+  with 2fa
