@@ -6,3 +6,4 @@
 - LockLogin BungeeCord will now disable auth lobby if the main lobby is the same
   (Main lobby will be used as auth, or if main is not working, auth lobby will be
   used as main)
+- Added italian translation
