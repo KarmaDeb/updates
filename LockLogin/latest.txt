@@ -1,7 +1,8 @@
-3.0.0
-- Fixed blind option wasn't working somethimes
-- Fixed console filter was not working with some commands
-- You can now manage spawn in BungeeCord mode (spigot config.yml)
-(Honestly, I don't recommend the next until is totally needed)
-- Added the posibility to add alloed cmds before login or verifying
-  with 2fa
+3.0.1
+- Fixed errors related with config (some options weren't working)
+- Fixed a problem with spawns sets in air (were kicking the player)
+- Added a second BungeeHack check, to avoid getting kicked in false positives
+- Fixed if blind effect enabled, players were losing their effects
+- LockLogin BungeeCord will now disable auth lobby if the main lobby is the same
+  (Main lobby will be used as auth, or if main is not working, auth lobby will be
+  used as main)
