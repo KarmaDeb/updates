@@ -10,4 +10,5 @@
 - Added the possiblity to reset last
   locations
 - Fixed players were not able to unlog
+- Fixed blind effects weren't working
 - Changed some commands aliases
