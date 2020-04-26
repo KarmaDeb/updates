@@ -10,3 +10,4 @@
 - Added the possiblity to reset last
   locations
 - Fixed players were not able to unlog
+- Changed some commands aliases
