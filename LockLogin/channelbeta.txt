@@ -1,7 +1,4 @@
-3.0.3
-- VERSION 3.0.3 IS NOT DONE YET, THIS IS JUST
-  TO SHOW YOU WHAT'S NEW AND WHAT'S FIXED
-
+3.0.2
 - This is the beta channel for the recoded
   version of LockLogin (Still in development)
 - [Somes changes are...]
