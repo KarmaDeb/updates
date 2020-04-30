@@ -1,9 +1,9 @@
-3.0.1
-- Fixed errors related with config (some options weren't working)
-- Fixed a problem with spawns sets in air (were kicking the player)
-- Added a second BungeeHack check, to avoid getting kicked in false positives
-- Fixed if blind effect enabled, players were losing their effects
-- LockLogin BungeeCord will now disable auth lobby if the main lobby is the same
-  (Main lobby will be used as auth, or if main is not working, auth lobby will be
-  used as main)
-- Added italian translation
+3.0.2
+- Recoded version is here, update NOW
+- Fixed some players where getting "Disconnect" error
+- Fixed max ip system was "trash" :)
+- Fixed 2fa code wasn't working somethimes
+- Removed country system
+- Now the bungee hack check it's literally better (Fail prop 0%)
+- Since the plugin is recoded, it's more optimized, and unused code have been errased
+- This version will import old player and config data
