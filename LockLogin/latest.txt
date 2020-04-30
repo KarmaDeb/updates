@@ -7,3 +7,5 @@
 - Now the bungee hack check it's literally better (Fail prop 0%)
 - Since the plugin is recoded, it's more optimized, and unused code have been errased
 - This version will import old player and config data
+
+- REMEMBER TO UPDATE ALSO IN SPIGOT IF YOU ARE USING BUNGEECORD
