@@ -1,11 +1,7 @@
-3.0.2
-- Recoded version is here, update NOW
-- Fixed some players where getting "Disconnect" error
-- Fixed max ip system was "trash" :)
-- Fixed 2fa code wasn't working somethimes
-- Removed country system
-- Now the bungee hack check it's literally better (Fail prop 0%)
-- Since the plugin is recoded, it's more optimized, and unused code have been errased
-- This version will import old player and config data
-
-- REMEMBER TO UPDATE ALSO IN SPIGOT IF YOU ARE USING BUNGEECORD
+3.0.3
+- Added polish translation
+- Removed some old messages that are
+  not used by 3.0.2
+- The plugin will display a warning when
+  the lang is not valid with a list of
+  valid langs
