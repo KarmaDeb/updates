@@ -1,7 +1,2 @@
-3.0.3
-- Added polish translation
-- Removed some old messages that are
-  not used by 3.0.2
-- The plugin will display a warning when
-  the lang is not valid with a list of
-  valid langs
+3.0.4
+- Fixed a polish lang error with Spigot
