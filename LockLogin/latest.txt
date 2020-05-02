@@ -1,2 +1,6 @@
-3.0.4
-- Fixed a polish lang error with Spigot
+3.0.5
+- Fixed a problem related with plugin messaging (LockLogin is not compatible with ExploitFixer)
+- Fixed a problem with translation messages
+- Fixed a problem with player data files
+- Fixed a problem with login messages in Spigot
+- Added a command to get player's info /playerinf [player]
