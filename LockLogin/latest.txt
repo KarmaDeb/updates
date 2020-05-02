@@ -3,4 +3,5 @@
 - Fixed a problem with translation messages
 - Fixed a problem with player data files
 - Fixed a problem with login messages in Spigot
+- Fixed migrate command was not in Spigot
 - Added a command to get player's info /playerinf [player]
