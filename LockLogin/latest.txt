@@ -1,7 +1,6 @@
-3.0.5
-- Fixed a problem related with plugin messaging (LockLogin is not compatible with ExploitFixer)
-- Fixed a problem with translation messages
-- Fixed a problem with player data files
-- Fixed a problem with login messages in Spigot
-- Fixed migrate command was not in Spigot
-- Added a command to get player's info /playerinf [player]
+3.0.6
+- Fixed a compatibility problem with Sentinel
+- Fixed a problem with player files
+- Fixed a problem with ll migrate command (now /migrate)
+- Added the option to disable max ip per connections by
+  setting it to 0
