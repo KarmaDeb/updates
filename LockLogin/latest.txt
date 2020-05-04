@@ -2,5 +2,6 @@
 - Fixed a compatibility problem with Sentinel
 - Fixed a problem with player files
 - Fixed a problem with ll migrate command (now /migrate)
+- Fixed a problem with lobby checkers
 - Added the option to disable max ip per connections by
   setting it to 0
