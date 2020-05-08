@@ -1,5 +1,4 @@
-3.0.7
-- Finally fixed the problem with player files
-- Fixed a bug related with banned players and
-  max IP system
-- Now migration without mysql works faster
+3.0.8
+- Fixed a problem with secure passwords
+  system. (Players were able to type
+  their usernames as passwords)
