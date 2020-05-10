@@ -1,4 +1,4 @@
-3.0.8
+3.0.9
 - Fixed 2FA incorrect message was not showing correctly
 - Fixed file creation message was showing always LockLogin
   instead of file name
