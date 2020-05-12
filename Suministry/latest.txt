@@ -1,8 +1,4 @@
-Beta 1.0.1
+Beta 1.0.2
 https://www.spigotmc.org/resources/gsa-supplies.78586/
-- Fixed a bug with messages
-- Fixed random supply was not working
-- Fixed some command aliases
-- Changed /sp to /sup due WE compatibility
-- Now the grenade explosion will not break blocks or cause
-  fire
+- Fixed when you click a supply in /sup list, wasn't giving you the supply
+- You can now disable supply animation
