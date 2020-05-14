@@ -1,4 +1,9 @@
-Beta 1.0.2
+Beta 1.0.3
 https://www.spigotmc.org/resources/gsa-supplies.78586/
-- Fixed when you click a supply in /sup list, wasn't giving you the supply
-- You can now disable supply animation
+- Fixed a problem with double chests
+- Fixed some messages args
+- Fixed a problem with some users using QualityArmory
+- Now chests will be beacons
+- The plugin will now save supplies location, if the plugin gets disabled or the server stops, supplies won't be lost
+- You can now add lores to the supplies grenades
+- You can now get a supply info with /sup info <supply>
