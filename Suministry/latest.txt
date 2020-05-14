@@ -1,3 +1,4 @@
-Beta 1.0.4
+Beta 1.0.5
 https://www.spigotmc.org/resources/gsa-supplies.78586/
-- Fixed a problem related with supply restorer
+- Fixed compatiblity issues with newer versions
+- Fixed a plugin was not working correctly without HolographicDisplays
