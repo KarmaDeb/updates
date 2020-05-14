@@ -1,2 +1,2 @@
-_eWARNING
-_cRemember to update also LockLogin in your spigot instances if you are using BungeeCord
+_4ALERT
+_eLatest LockLogin version may not be compatible with latest spigot version
