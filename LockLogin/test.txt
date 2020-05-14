@@ -1,7 +1,7 @@
 3.1.1
 - Message files now support special characters
-[color]b[ [color]cAdition info [color]b]
-[color]eIf you are using chinese, you will need
-[color]eto define -Dfile.encoding=utf-8 on startup
-[color]eIf you have issues with the message file, remove it
+_b[ _cAdition info _b]
+_eIf you are using chinese, you will need
+_eto define -Dfile.encoding=utf-8 on startup
+_eIf you have issues with the message file, remove it
 
