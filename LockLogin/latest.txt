@@ -1,2 +1,2 @@
 3.1.2
-- Fixed messages were no longer customizable
+- Fixed message files were no longer customizable
