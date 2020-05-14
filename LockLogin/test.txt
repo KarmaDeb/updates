@@ -1,7 +1,7 @@
-3.0.0
-- Fixed blind option wasn't working somethimes
-- Fixed console filter was not working with some commands
-- You can now manage spawn in BungeeCord mode (spigot config.yml)
-[Honestly, I don't recommend this until is totally needed]
-- Added the posibility to add alloed cmds before login or verifying
-  with 2fa
+3.1.1
+- Message files now support special characters
+[color]b[ [color]cAdition info [color]b]
+[color]eIf you are using chinese, you will need
+[color]eto define -Dfile.encoding=utf-8 on startup
+[color]eIf you have issues with the message file, remove it
+
