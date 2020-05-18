@@ -1,4 +1,2 @@
-3.1.4
-- Fixed a bug where you could kill NPCs
-- Fixed a bug in where you couldn't 
-  receive damage from NPCs like Sentinel NPCs
+3.1.5
+- Fixed some bugs with sentinel
