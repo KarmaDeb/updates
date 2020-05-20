@@ -1,2 +1,2 @@
-3.1.5
-- Fixed some bugs with sentinel
+3.1.6
+- Improved bungee hack checks
