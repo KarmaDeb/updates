@@ -1,2 +1,2 @@
 _4ALERT
-_eLatest LockLogin version may not be compatible with latest spigot version
+_eIF YOU ARE USING SPIGOT, DO NOT USE THE LATEST VERSION
