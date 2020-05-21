@@ -1,5 +1,5 @@
-3.1.7
-- Fixed sometimes MySQL was losing connection
-- Fixed bungee check was being performed in Spigot
-- Fixed some problems in spigot while using BungeeCord
-- Added an illegal name detector ( Will follow mojang's criteria )
+3.1.8
+- Fixed a bug with name validator
+- Removed a debug message
+- Now you can choose if plugin validates
+  names
