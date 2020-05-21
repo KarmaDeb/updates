@@ -1,2 +1,2 @@
 _4ALERT
-_eIF YOU ARE USING SPIGOT, DO NOT USE THE LATEST VERSION
+_aAll problems are fixed for now
