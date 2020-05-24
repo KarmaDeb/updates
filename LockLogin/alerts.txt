@@ -1,2 +1,2 @@
 _4ALERT
-_cWe detected a serveral problem with IP Storage system in bungeecord, we are working hard to fix it
+_cWe detected a several problem with IP Storage system in bungeecord, we are working hard to fix it
