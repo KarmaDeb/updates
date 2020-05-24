@@ -1,8 +1,4 @@
-Beta 1.0.6
+Beta 1.0.7
 https://www.spigotmc.org/resources/gsa-supplies.78586/
-- Fixed:
-- Fixed a bug with config and blocked worlds
-- Now you can give and receive grenades even in a blocked world, but you won't be able to throw them
-- Now you can buy all supplies using /sup shop
-- You can change a supply price by using /sup price <supply> <price>
-- Removed config comments
+- Now you can choose the update check
+  interval
