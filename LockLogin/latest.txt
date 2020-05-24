@@ -1,5 +1,5 @@
-3.1.8
-- Fixed a bug with name validator
-- Removed a debug message
-- Now you can choose if plugin validates
-  names
+3.1.9
+- Implemented IP lookup system
+- Now you can choose how many accounts
+  will be able to register from a same
+  IP
