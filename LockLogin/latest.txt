@@ -1,5 +1,2 @@
-3.1.9
-- Implemented IP lookup system
-- Now you can choose how many accounts
-  will be able to register from a same
-  IP
+3.2.0
+- Updated IP storage system
