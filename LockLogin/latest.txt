@@ -1,2 +1,3 @@
 3.2.1
-- Fixed and improved MySQL system
+- Fixed some sql bugs and improved 
+  MySQL system
