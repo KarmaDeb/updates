@@ -1,3 +1,6 @@
-3.2.1
-- Fixed some sql bugs and improved 
-  MySQL system
+3.2.2
+- Fixed some bugs with
+  MySQl connections
+- Now you can configure more
+  options in mysql.yml
+- Plugin .jar size is a bit smaller now
