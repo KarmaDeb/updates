@@ -1,6 +1,6 @@
-3.2.2
-- Fixed some bugs with
-  MySQl connections
-- Now you can configure more
-  options in mysql.yml
-- Plugin .jar size is a bit smaller now
+3.2.3
+- Fixed some problems
+  with MySQL migration in
+  Spigot
+- Fixed migration command wasn't
+  working in Spigot
