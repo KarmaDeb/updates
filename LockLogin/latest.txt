@@ -1,6 +1,2 @@
-3.2.3
-- Fixed some problems
-  with MySQL migration in
-  Spigot
-- Fixed migration command wasn't
-  working in Spigot
+3.2.5
+- Fixed update checker in bungeecord
