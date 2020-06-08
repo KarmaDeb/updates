@@ -1,2 +1,2 @@
-3.2.5
-- Fixed update checker in bungeecord
+3.2.6
+- LockLogin .jar is now more lightweight
