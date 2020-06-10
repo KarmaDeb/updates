@@ -1,2 +1,3 @@
-3.2.6
-- LockLogin .jar is now more lightweight
+3.2.7
+- Fixed MySQL problems from latest
+  update
