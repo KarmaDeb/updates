@@ -1,3 +1,4 @@
-3.2.7
-- Fixed MySQL problems from latest
-  update
+3.2.8
+- Fixed players weren't able to join
+- Fixed in the case players were able
+  to join, it was after a long wait
