@@ -1,4 +1,6 @@
-3.2.8
-- Fixed players weren't able to join
-- Fixed in the case players were able
-  to join, it was after a long wait
+3.2.9
+- Fixed a bug in where sometimes, already 
+  registered players were getting the max 
+  register accounts message
+- I decided to improve a little bit 
+  the plugin code, including the API
