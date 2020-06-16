@@ -1,6 +1,4 @@
-3.2.9
-- Fixed a bug in where sometimes, already 
-  registered players were getting the max 
-  register accounts message
-- I decided to improve a little bit 
-  the plugin code, including the API
+3.3.0
+- Fixed API events in while
+  using API in some newer 
+  Spigot versions
