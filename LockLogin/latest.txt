@@ -1,4 +1,7 @@
-3.3.0
-- Fixed API events in while
-  using API in some newer 
-  Spigot versions
+3.3.1
+- Now you can apply blind effect
+  in BungeeCord
+- Last location won't save your
+  location if you are not logged
+  and verified with 2FA if your
+  account has it
