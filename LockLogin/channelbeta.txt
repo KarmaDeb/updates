@@ -1,2 +1,19 @@
-3.0.3
-- LockLogin recoded version have been officialy published
+3.3.2
+- WHAT ARE YOU DOING HERE?
+- WHAT ARE YOU DOING HERE?
+- WHAT ARE YOU DOING HERE?
+- WHAT ARE YOU DOING HERE?
+- Fixed a null exception with
+  new players in BungeeCord
+- UPDATE ME NOW ( https://www.spigotmc.org/resources/gsa-locklogin.75156/ )
+- UPDATE ME NOW ( https://www.spigotmc.org/resources/gsa-locklogin.75156/ )
+- UPDATE ME NOW ( https://www.spigotmc.org/resources/gsa-locklogin.75156/ )
+- UPDATE ME NOW ( https://www.spigotmc.org/resources/gsa-locklogin.75156/ )
+- UPDATE ME NOW ( https://www.spigotmc.org/resources/gsa-locklogin.75156/ )
+- UPDATE ME NOW ( https://www.spigotmc.org/resources/gsa-locklogin.75156/ )
+- UPDATE ME NOW ( https://www.spigotmc.org/resources/gsa-locklogin.75156/ )
+- UPDATE ME NOW ( https://www.spigotmc.org/resources/gsa-locklogin.75156/ )
+- UPDATE ME NOW ( https://www.spigotmc.org/resources/gsa-locklogin.75156/ )
+- UPDATE ME NOW ( https://www.spigotmc.org/resources/gsa-locklogin.75156/ )
+- UPDATE ME NOW ( https://www.spigotmc.org/resources/gsa-locklogin.75156/ )
+- UPDATE ME NOW ( https://www.spigotmc.org/resources/gsa-locklogin.75156/ )
