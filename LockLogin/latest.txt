@@ -1,7 +1,3 @@
-3.3.1
-- Now you can apply blind effect
-  in BungeeCord
-- Last location won't save your
-  location if you are not logged
-  and verified with 2FA if your
-  account has it
+3.3.2
+- Fixed a null exception with
+  new players in BungeeCord
