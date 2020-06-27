@@ -1,17 +1,3 @@
-2.1.5
-- Recoded PlayerBTH
-- Removed cake
-- Remove img map
-- Removed support for SQLite
-- Removed bths update, bths changelog, bths checkupate
-- Changed birthday system (Now supportts 00-09 & 1-9)
-- Changed bths resetbd to bths dump
-- Changed bth public with bth notify
-- Changed how public works, now will be used to specify if 
-  the player wants to receive notifications about other 
-  players birthdaysChanged withs testbirthday with bths celebrate
-- Now NoteBlockAPI (NEEDED FOR SONGS) won't be downloaded automatically
-- Changed player data file, to a .player format
-- Added migration command
-- Added migration from yaml-mysql automatically on join
-- Improved MySQL system
+2.1.6
+- Fixed fireworks were not working
+- Now you can toggle song
