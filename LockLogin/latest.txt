@@ -1,3 +1,4 @@
-3.3.2
-- Fixed a null exception with
-  new players in BungeeCord
+3.3.3
+- Fixed mysql auto-migration in BungeeCord
+- Removed dead code (Code cleanup)
+- Added a java version checker
