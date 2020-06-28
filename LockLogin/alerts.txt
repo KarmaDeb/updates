@@ -1,2 +1,2 @@
 _4ALERT
-_aEverything is working great!
+_cLockLogin must be run in Java 7 or Java 8
