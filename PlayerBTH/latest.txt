@@ -1,3 +1,2 @@
-2.1.6
-- Fixed fireworks were not working
-- Now you can toggle song
+2.1.7
+- Improvements over updater
