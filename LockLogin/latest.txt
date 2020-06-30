@@ -1,4 +1,3 @@
-3.3.3
-- Fixed mysql auto-migration in BungeeCord
-- Removed dead code (Code cleanup)
-- Added a java version checker
+3.3.4
+- Fixed infinite version update in BungeeCord
+- Added pin GUI system (not available in BungeeCord for now)
