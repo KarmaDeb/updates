@@ -1,3 +1,9 @@
-3.3.4
-- Fixed infinite version update in BungeeCord
-- Added pin GUI system (not available in BungeeCord for now)
+3.3.5
+- Fixed a bug with log system
+- Fixed a bug with LockLogin ip data system
+- Added auto-update system
+- Added /applyUpdates command, which can be used 
+  as reload for the plugin, but I don't' recommend 
+  it as is to apply LockLogin updates
+- Added pin system in BungeeCord
+- Optimized LockLogin ip data system
