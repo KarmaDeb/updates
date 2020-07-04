@@ -4,6 +4,6 @@
 - Added auto-update system
 - Added /applyUpdates command, which can be used 
   as reload for the plugin, but I don't' recommend 
-  it as is to apply LockLogin updates
+  it as it is to apply LockLogin updates
 - Added pin system in BungeeCord
 - Optimized LockLogin ip data system
