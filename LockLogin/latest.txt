@@ -1,9 +1,6 @@
-3.3.5
-- Fixed a bug with log system
-- Fixed a bug with LockLogin ip data system
-- Added auto-update system
-- Added /applyUpdates command, which can be used 
-  as reload for the plugin, but I don't' recommend 
-  it as it is to apply LockLogin updates
-- Added pin system in BungeeCord
-- Optimized LockLogin ip data system
+3.3.6
+- Fixed /applyUpdates command in Spigot
+- Fixed some events were using a lot of 
+  CPU with no reason
+- Fixed that in bungeecord, players were stuck
+- Fixed a null exception in BungeeCord
