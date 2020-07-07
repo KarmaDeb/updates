@@ -1,11 +1,5 @@
-3.3.7
-- SetBack option wasn't working
-- Fixed /applyUpdates command wasn't 
-  fully working in Spigot
-- Optimized some events in BungeeCord
-- Spigot and BungeeCord will now auto-update 
-  when the server is empty
-- Spigot will auto-update even in BungeeCord mode 
-  (only if server is empty) ignoring AutoUpdate option in config.yml
-- Added AuthMe compatibility (Only SHA256 passwords) 
-  for Spigot
+3.3.8
+- Fixed some bugs with BungeeCord files
+- Fixed MySQL problems
+- Fixed some pin inventory related problems
+- Optimized a little bit user account status checker
