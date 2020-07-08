@@ -1,5 +1,6 @@
-3.3.8
-- Fixed some bugs with BungeeCord files
-- Fixed MySQL problems
-- Fixed some pin inventory related problems
-- Optimized a little bit user account status checker
+3.3.9
+- Fixed a bug with an exception in Spigot
+- Fixed a bug with MySQL in Spigot
+- Optimized even more LockLogin in spigot (keeps being a bit unstable) but the performance is notably better
+- Added AuthMe sqlite migration to LockLogin mysql
+- Updated applyUpdates and migration command
