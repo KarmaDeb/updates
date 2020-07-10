@@ -1,6 +1,5 @@
-3.3.9
-- Fixed a bug with an exception in Spigot
-- Fixed a bug with MySQL in Spigot
-- Optimized even more LockLogin in spigot (keeps being a bit unstable) but the performance is notably better
-- Added AuthMe sqlite migration to LockLogin mysql
-- Updated applyUpdates and migration command
+3.4.0
+- Fixed locklogin command wasn't working while BungeeCord mode
+- Fixed problem with a blocked event (InexOutOfBoundsException)
+- Fixed bug with 2FA and pin system in BungeeCord
+- Tried to fix a problem while setting up mysql
