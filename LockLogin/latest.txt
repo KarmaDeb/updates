@@ -1,5 +1,4 @@
-3.4.0
-- Fixed locklogin command wasn't working while BungeeCord mode
-- Fixed problem with a blocked event (InexOutOfBoundsException)
-- Fixed bug with 2FA and pin system in BungeeCord
-- Tried to fix a problem while setting up mysql
+3.4.1
+- Fixed problem in BungeeCord with an
+  event (InexOutOfBoundsException)
+- Added an option to disable update checker
