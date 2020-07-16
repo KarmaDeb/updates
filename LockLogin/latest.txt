@@ -1,4 +1,3 @@
-3.4.1
-- Fixed problem in BungeeCord with an
-  event (InexOutOfBoundsException)
-- Added an option to disable update checker
+3.4.2
+- Fixed allowed commands were not working
+- Optimized the code
