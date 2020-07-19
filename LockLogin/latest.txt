@@ -1,3 +1,5 @@
-3.4.2
-- Fixed allowed commands were not working
-- Optimized the code
+3.4.3
+- I keep trying to optimize LockLogin
+  this version won't make any relevant performance
+  change, but you should use it, since any performance
+  improvement is good
