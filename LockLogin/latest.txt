@@ -1,5 +1,5 @@
-3.4.3
-- I keep trying to optimize LockLogin
-  this version won't make any relevant performance
-  change, but you should use it, since any performance
-  improvement is good
+3.4.4
+- Fixed pin inventory was not working 
+  in some servers (apparently most of 1.16.1 servers)
+- Fixed pin output (paper with the pin you 
+  type) was adding to your inventory
