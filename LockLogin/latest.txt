@@ -1,5 +1,7 @@
-3.4.4
-- Fixed pin inventory was not working 
-  in some servers (apparently most of 1.16.1 servers)
-- Fixed pin output (paper with the pin you 
-  type) was adding to your inventory
+3.4.5
+- This version adds authme bcrypt compatibility
+  and also improves the auto-updater to disallow 
+  LockLogin with invalid plugin.yml or lower LockLogin 
+  versions, it also adds a little delay between unload 
+  and load when using /applyUpdates | /locklogin applyUpdates 
+  to avoid possible errors
