@@ -1,7 +1,4 @@
-3.4.5
-- This version adds authme bcrypt compatibility
-  and also improves the auto-updater to disallow 
-  LockLogin with invalid plugin.yml or lower LockLogin 
-  versions, it also adds a little delay between unload 
-  and load when using /applyUpdates | /locklogin applyUpdates 
-  to avoid possible errors
+3.4.6
+- Fixed MySQL migration was not working for
+  AuthMe migrated accounts
+- Optimized LockLogin with very good results
