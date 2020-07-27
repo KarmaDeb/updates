@@ -1,2 +1,2 @@
-_4ALERT
-_cLockLogin must be run in Java 7 or Java 8
+_eLockLogin
+_7Don't forget to reports errors in our discord
