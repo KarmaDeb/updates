@@ -1,4 +1,7 @@
-3.4.6
-- Fixed MySQL migration was not working for
-  AuthMe migrated accounts
-- Optimized LockLogin with very good results
+3.4.7
+- Added a (very simple) anti-bot system 
+  [will deny direct connections]
+- Added an option to allow to join a player that's 
+  already playing in the server with the same IP
+- Implemented migration from sqlite (AuthMe) to file in 
+  Spigot
