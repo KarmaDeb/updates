@@ -1,7 +1,2 @@
-3.4.7
-- Added a (very simple) anti-bot system 
-  [will deny direct connections]
-- Added an option to allow to join a player that's 
-  already playing in the server with the same IP
-- Implemented migration from sqlite (AuthMe) to file in 
-  Spigot
+3.4.8
+- Fixed a MySQL problem
