@@ -1,2 +1,8 @@
-3.4.8
-- Fixed a MySQL problem
+3.4.9
+- Fixed a bug with MySQL
+- Fixed players were able to open and interact 
+  with custom inventories (player inventory "e" 
+  keeps being accessible, but any interaction will 
+  close the inventory)
+- Fixed a potential problem with max accounts system,
+  I recommend you to completly remove LockLogin/data
