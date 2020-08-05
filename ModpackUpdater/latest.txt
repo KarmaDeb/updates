@@ -1,2 +1,2 @@
 1.0.0
-https://karmaconfigs.github.io/updates/ModpackUpdater/download.html
+https://karmaconfigs.github.io/updates/ModpackUpdater/ModpackUpdater.jar
