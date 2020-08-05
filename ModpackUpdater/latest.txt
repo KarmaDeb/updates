@@ -1,2 +1,2 @@
-1.0.0
+1.0.1
 https://karmaconfigs.github.io/updates/ModpackUpdater/ModpackUpdater.jar
