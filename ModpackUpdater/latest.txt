@@ -1,2 +1,8 @@
 1.0.2
 https://karmaconfigs.github.io/updates/ModpackUpdater/ModpackUpdater.exe
+- Improved modpack creator
+  version criterial
+- Added changelogs to
+  version check window
+- Added an option to toggle
+  version checks
