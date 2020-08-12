@@ -1,8 +1,7 @@
-1.0.2
-https://karmaconfigs.github.io/updates/ModpackUpdater/ModpackUpdater.exe
-- Improved modpack creator
-  version criterial
-- Added changelogs to
-  version check window
-- Added an option to toggle
-  version checks
+1.0.3
+https://karmaconfigs.github.io/updates/ModpackUpdater/ModpackUpdater.jar
+- Added a button to launch the modpack 
+  directly from Modpack updater 
+  (May not work for version +1.13)
+- Added a button to export debug 
+  pane ( as html file )
