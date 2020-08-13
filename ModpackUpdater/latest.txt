@@ -1,7 +1,5 @@
-1.0.3
+1.0.4
 https://karmaconfigs.github.io/updates/ModpackUpdater/ModpackUpdater.jar
-- Added a button to launch the modpack 
-  directly from Modpack updater 
-  (May not work for version +1.13)
-- Added a button to export debug 
-  pane ( as html file )
+- Launch modpack button now opens
+  in a new frame
+- Fixed sombe bugs with .zip modpacks
