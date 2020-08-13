@@ -1,5 +1,5 @@
 1.0.4
 https://karmaconfigs.github.io/updates/ModpackUpdater/ModpackUpdater.jar
 - Launch modpack button now opens
-  in a new frame
+  a new frame
 - Fixed sombe bugs with .zip modpacks
