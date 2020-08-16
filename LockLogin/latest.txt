@@ -1,8 +1,7 @@
-3.4.9
-- Fixed a bug with MySQL
-- Fixed players were able to open and interact 
-  with custom inventories (player inventory "e" 
-  keeps being accessible, but any interaction will 
-  close the inventory)
-- Fixed a potential problem with max accounts system,
-  I recommend you to completly remove LockLogin/data
+1.0.0.0
+- 2FA and PIN players weren't being blocked 
+  ( they were able to act as logged-in players )
+- Tried to fix a problem related with max accounts registrations
+- When you change or register, if your password is weak
+  it will send the player a message with a secure password gen
+- Made public LockLogin source code
