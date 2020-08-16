@@ -1,7 +1,5 @@
-1.0.0.0
-- 2FA and PIN players weren't being blocked 
-  ( they were able to act as logged-in players )
-- Tried to fix a problem related with max accounts registrations
-- When you change or register, if your password is weak
-  it will send the player a message with a secure password gen
-- Made public LockLogin source code
+1.0.0.1
+- Fixed a bug with max accounts
+  was blocking already registered accounts
+- Fixed an exception that was 
+  being thrown somethimes
