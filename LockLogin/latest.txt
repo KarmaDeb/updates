@@ -1,5 +1,5 @@
-1.0.0.1
-- Fixed a bug with max accounts
-  was blocking already registered accounts
-- Fixed an exception that was 
-  being thrown somethimes
+1.0.0.2
+- Fixed dependency issues (1.16
+  compatibility issues)
+- Fixed /playerinfo command was
+  sending the player info incorrectly
