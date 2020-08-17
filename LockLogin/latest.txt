@@ -1,4 +1,4 @@
-1.0.0.1
+1.0.0.0
 - Fixed a bug with max accounts
   was blocking already registered accounts
 - Fixed an exception that was 
