@@ -1,5 +1,5 @@
-1.0.4
+1.0.5
 https://karmaconfigs.github.io/updates/ModpackUpdater/ModpackUpdater.jar
-- Launch modpack button now opens
-  a new frame
-- Fixed sombe bugs with .zip modpacks
+- Added new theme
+- Fixed a bug in where minecraft
+  folder was not being updated
