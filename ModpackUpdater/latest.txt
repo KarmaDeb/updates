@@ -1,4 +1,5 @@
-1.0.7
+1.0.8
 https://karmaconfigs.github.io/updates/ModpackUpdater/ModpackTool.jar
-- Improved update system
-- Modpacks now include configs
+true
+- This version requires to update ModpackTool
+- https://karmaconfigs.github.io/updates/ModpackUpdater/ModpackTool.jar
