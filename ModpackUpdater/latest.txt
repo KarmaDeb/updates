@@ -1,6 +1,7 @@
-1.0.9
+1.1.0
 https://karmaconfigs.github.io/updates/ModpackUpdater/ModpackTool.jar
 true
-- This version requires to update ModpackTool
-- Fixed a problem with tool updater
-- https://karmaconfigs.github.io/updates/ModpackUpdater/ModpackTool.jar
+- Fixed a bug with
+ModpackTool that was not creating
+the tool folder and was not being
+downloaded
