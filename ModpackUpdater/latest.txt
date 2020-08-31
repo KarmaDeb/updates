@@ -1,5 +1,4 @@
-1.0.5
-https://karmaconfigs.github.io/updates/ModpackUpdater/ModpackUpdater.jar
-- Added new theme
-- Fixed a bug in where minecraft
-  folder was not being updated
+1.0.6
+https://karmaconfigs.github.io/updates/ModpackUpdater/ModpackTool.jar
+- Improved update system
+- Modpacks now include configs
