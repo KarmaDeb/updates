@@ -10,3 +10,4 @@ again
 - Removed launcher option from
 tool and replaced it with a button
 that will refresh changelog
+- Removed System Default theme
