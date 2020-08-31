@@ -1,7 +1,12 @@
-1.1.0
+1.1.1
 https://karmaconfigs.github.io/updates/ModpackUpdater/ModpackTool.jar
 true
-- Fixed a bug with
-ModpackTool that was not creating
-the tool folder and was not being
-downloaded
+- Fixed a problem with update system
+wasn't updating the .jar
+- Changelog will be displayed
+on tool
+- Version check box is working
+again
+- Removed launcher option from
+tool and replaced it with a button
+that will refresh changelog
