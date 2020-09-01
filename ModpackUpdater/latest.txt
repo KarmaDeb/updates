@@ -1,13 +1,6 @@
-1.1.1
+1.1.2
 https://karmaconfigs.github.io/updates/ModpackUpdater/ModpackTool.jar
-true
-- Fixed a problem with update system
-wasn't updating the .jar
-- Changelog will be displayed
-on tool
-- Version check box is working
-again
-- Removed launcher option from
-tool and replaced it with a button
-that will refresh changelog
-- Removed System Default theme
+false
+- Updated GUI
+- Fixed refresh changelog
+time limit was getting under 0
