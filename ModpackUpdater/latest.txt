@@ -1,6 +1,9 @@
-1.1.2
+1.1.3
 https://karmaconfigs.github.io/updates/ModpackUpdater/ModpackTool.jar
 false
 - Updated GUI
 - Fixed refresh changelog
 time limit was getting under 0
+- Fixed a bug from
+1.1.2 that was avoiding
+the tool from closing
