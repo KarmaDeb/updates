@@ -1,6 +1,2 @@
-1.0.0.3
-- Fixed dependency issues (1.16
-  compatibility issues)
-- Fixed /playerinfo command was
-  sending the player info incorrectly
-- Updated polish translation
+1.0.0.4
+- Plugin license update
