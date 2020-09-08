@@ -1,6 +1,5 @@
-1.1.4
+1.1.5
 https://karmaconfigs.github.io/updates/ModpackUpdater/ModpackTool.jar
 false
-- Added 58 new themes
-- Changed line color to make it
-visible in clear themes
+- Fixed theme was setting
+to dark when tool started
