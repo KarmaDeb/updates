@@ -1,2 +1,3 @@
-1.0.0.4
-- Plugin license update
+1.0.0.5
+- Updated API
+- Updated license
