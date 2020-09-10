@@ -1,2 +1,2 @@
-_4VERY IMPORTANT
-_7Our discord got hacked and we had to create a new one, if you were in our discord, this is the new one: https://discord.gg/SMwPFGf
+_6GRAVE
+_7We've fixed a problem with infinite update while using auto-update, the plugin version didn't change, keeps being 1.0.0.5, download again LockLogin.jar or wait until AutoUpdater re-downloads the .jar
