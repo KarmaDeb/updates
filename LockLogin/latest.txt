@@ -1,3 +1,6 @@
-1.0.0.5
-- Updated API
-- Updated license
+1.0.0.6
+- Fixed a bug when login out
+  on a pressure plate
+- Fixed flashing titles
+- Added an option to apply
+  nausea effect
