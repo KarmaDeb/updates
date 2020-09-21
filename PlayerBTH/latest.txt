@@ -1,2 +1,10 @@
-2.1.7
-- Improvements over updater
+2.1.8
+- Tried to fix a bug with
+  anti-birthday-abuse system
+- Fixed MySQL tables weren't
+  being generated correctly somethimes
+- Config and messages file now
+  support comments
+- Removed version from config and messages
+- Provided config of comments so now it's easy
+  to read
