@@ -1,13 +1,4 @@
-2.1.8
-- Tried to fix a bug with
-  anti-birthday-abuse system
-- Fixed MySQL tables weren't
-  being generated correctly somethimes
-- Fixed a bug with command
-  messages
-- Config and messages file now
-  support comments
-- Removed version from config and messages
-- Provided config of comments so now it's easy
-  to read
-- Added /bths reload
+2.1.9
+- Fixed a bug in where commands
+  and messages from commands.yml
+  weren't being sent
