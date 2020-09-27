@@ -1,5 +1,6 @@
-1.1.5
+1.1.6
 https://karmaconfigs.github.io/updates/ModpackUpdater/ModpackTool.jar
 false
-- Fixed theme was setting
-to dark when tool started
+- Fixed creator for users who
+have minecraft in a different
+folder ( not appdata )
