@@ -1,3 +1,4 @@
-1.0.0
-https://google.es
-- Launched EpicCome remastered
+1.0.1
+https://www.spigotmc.org/resources/epiccome-remastered.83691/
+- Fixed events registration and
+  unregistration
