@@ -1,6 +1,6 @@
-1.1.6
+1.1.7
 https://karmaconfigs.github.io/updates/ModpackUpdater/ModpackTool.jar
 false
-- Fixed creator for users who
-have minecraft in a different
-folder ( not appdata )
+- Added Liteloader support
+- Open file now works as
+refresh button
