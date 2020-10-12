@@ -1,3 +1,9 @@
-1.0.0.7
-- Fixed plugin wasn't loading in
-  versions under 1.16
+1.0.0.8
+- Improved how does the
+  plugin gets the language
+- Added language names as
+  possible language option
+  in config.yml, see plugin
+  wiki for more info
+- Added community made
+  Czech language
