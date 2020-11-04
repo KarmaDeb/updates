@@ -1,6 +1,5 @@
-1.1.7
+1.1.8
 https://karmaconfigs.github.io/updates/ModpackUpdater/ModpackTool.jar
 false
-- Added Liteloader support
-- Open file now works as
-refresh button
+- Added simple version
+of the tool when launching it
