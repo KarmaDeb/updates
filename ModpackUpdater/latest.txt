@@ -1,5 +1,7 @@
-1.1.8
+1.1.9
 https://karmaconfigs.github.io/updates/ModpackUpdater/ModpackTool.jar
 false
 - Added simple version
 of the tool when launching it
+- Fixed download bar
+wasn't being show
