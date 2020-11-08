@@ -1,3 +1,4 @@
-1.0.1.0
-- Fixed an error when logging in
-- Implemented pull request #1 (Filter simplification)
+1.0.1.1
+- Fixed more login errors
+- Fixed blindness effect wasn't
+  being removed
