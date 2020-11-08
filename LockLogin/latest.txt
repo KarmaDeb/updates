@@ -1,9 +1,5 @@
-1.0.0.8
-- Improved how does the
-  plugin gets the language
-- Added language names as
-  possible language option
-  in config.yml, see plugin
-  wiki for more info
-- Added community made
-  Czech language
+1.0.0.9
+- Updated filter to hide commands
+  with caps on it, so /loGin and
+  similar are now also hidden
+- Minial changes to BungeeCord API
