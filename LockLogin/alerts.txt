@@ -1,2 +1,2 @@
-_6GRAVE
-_7We've fixed a problem with infinite update while using auto-update, the plugin version didn't change, keeps being 1.0.0.5, download again LockLogin.jar or wait until AutoUpdater re-downloads the .jar
+_cIMPORTANT
+_7Our discord got removed for unknown reasons, if you need support please use github https://github.com/KarmaConfigs/page/issues
