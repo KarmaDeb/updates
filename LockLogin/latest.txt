@@ -7,7 +7,7 @@
   - Removed dedundant and dead code
     (code cleanup)
 
-  - _eAdded comments to files
+  - _aAdded comments to files
 
   - LockLogin API now requires a LockLogin
     module instance, read wiki API page
