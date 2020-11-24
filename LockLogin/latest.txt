@@ -1,4 +1,25 @@
-1.0.1.1
-- Fixed more login errors
-- Fixed blindness effect wasn't
-  being removed
+1.0.1.3
+  _cLockLogin developers update
+
+  - Implemented KarmaAPI which allows
+    LockLogin to be lightweight
+
+  - Removed dedundant and dead code
+    (code cleanup)
+
+  - _eAdded comments to files
+
+  - LockLogin API now requires a LockLogin
+    module instance, read wiki API page
+    for more info 
+
+  - Improved logs system
+
+  - Imrpoved API and fixed some problems with it
+  
+  _eAdditional info:
+
+ _bLockLogin API now requires
+ _ba module instance due it helps
+ _bthe server owner to have more
+ _bcontrol over who calls the API
