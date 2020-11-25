@@ -1,0 +1,7 @@
+1.0.1.4  
+  - Fixed some problems with player
+    files
+
+  - Removed the ability to hide
+    changelog, changelog is now
+    limited by the plugin
