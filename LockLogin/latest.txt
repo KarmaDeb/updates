@@ -1,14 +1,6 @@
-1.0.1.4  
+1.0.1.5
 
-  - Fixed some problems with player
-    files
+  - Fixed some problems with configuration files
 
-  - Removed the ability to hide
-    changelog, changelog is now
-    limited by the plugin
-
-  _bAdditional info
-
-_eChangelogs will be shown if
-_ethere's any change on it or
-_eif the updater checked 3 times
+  - Fixed some problems with LockLogin IP Storager
+    system
