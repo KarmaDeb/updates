@@ -1,6 +1,17 @@
+1.0.1.6
+
+  - Added nether portal patch, users can now log
+    in even if they are in a nether portal 
+  
+
 1.0.1.5
 
   - Fixed some problems with configuration files
 
   - Fixed some problems with LockLogin IP Storager
     system
+
+
+	_eAdditional info
+_bThis changelog includes the old one since the previous
+_brelease has been released almost right now
