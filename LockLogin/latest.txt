@@ -1,10 +1,10 @@
+1.0.1.8
+
+  - Fixed LockLogin in vanilla BungeeCord
+    instances
+  
+
 1.0.1.7
 
   - Fixed a nether portal patch error in
     legacy versions  
-  
-
-1.0.1.6
-
-  - Added nether portal patch, users can now log
-    in even if they are in a nether portal 
