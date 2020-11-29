@@ -1,6 +1,11 @@
-1.2.2
+1.2.3
 https://karmaconfigs.github.io/updates/ModpackUpdater/ModpackTool.jar
-true
+false
+- Fixed tool url input wasn't pasting
+urls with : and wasn't able to be
+writed manually
+
+1.2.2
 - Fixed tool wasn't opening on some systems
 - Fixed tool wasn't updating
 - Re-worked the tool, completely
