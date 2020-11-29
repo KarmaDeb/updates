@@ -1,6 +1,7 @@
-1.2.0
-https://karmaconfigs.github.io/updates/ModpackUpdater/ModpackTool.jar
+1.2.1
+https://karmaconfigs.github.io/updates/ModpackUpdater/MPUpdater.jar
 false
+- Fixed tool wasn't updating
 - Re-worked the tool, completely
 - Now the tool creation tool allows
 you to specify name, author, version
