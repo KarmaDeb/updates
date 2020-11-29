@@ -1,7 +1,19 @@
-1.1.9
+1.2.0
 https://karmaconfigs.github.io/updates/ModpackUpdater/ModpackTool.jar
 false
-- Added simple version
-of the tool when launching it
-- Fixed download bar
-wasn't being show
+- Re-worked the tool, completely
+- Now the tool creation tool allows
+you to specify name, author, version
+and description, which one allows markdown
+format
+- The tool now allows you to include worlds
+and select the textures, shaders and worlds
+to include
+- The tool now hashes and compress the files
+and unhashes and uncompress them when downloaded
+- The tool now generates an mpu file, which can be
+opened with the tool to download the modpack without
+needing a host
+- The tool now uses json to get modpack data
+- Improved tool text areas to indicate when something
+is wrong
