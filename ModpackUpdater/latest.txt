@@ -17,3 +17,5 @@ needing a host
 - The tool now uses json to get modpack data
 - Improved tool text areas to indicate when something
 is wrong
+- Removed complex and simple version since now the
+tool has a clean GUI again
