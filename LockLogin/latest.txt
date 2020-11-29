@@ -1,10 +1,11 @@
-1.0.1.8
+1.0.1.9
 
-  - Fixed LockLogin in vanilla BungeeCord
-    instances
+  - This update requires a manual
+    update
   
 
-1.0.1.7
-
-  - Fixed a nether portal patch error in
-    legacy versions  
+	_bAddition info
+_eThis update makes you to choose if
+_eyou want to use fat locklogin or
+_eflat one, this is due some users
+_eare having troubles with the flat jar
