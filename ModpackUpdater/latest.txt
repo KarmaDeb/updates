@@ -1,6 +1,7 @@
-1.2.1
+1.2.2
 https://karmaconfigs.github.io/updates/ModpackUpdater/MPUpdater.jar
 false
+- Fixed tool wasn't opening on some systems
 - Fixed tool wasn't updating
 - Re-worked the tool, completely
 - Now the tool creation tool allows
