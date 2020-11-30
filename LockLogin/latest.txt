@@ -1,11 +1,4 @@
-1.0.1.9
+1.0.2.0
 
-  - This update requires a manual
-    update
-  
-
-	_bAddition info
-_eThis update makes you to choose if
-_eyou want to use fat locklogin or
-_eflat one, this is due some users
-_eare having troubles with the flat jar
+  - Fixed console was filtering
+    all the commands
