@@ -1,4 +1,6 @@
-2.1.9
-- Fixed a bug in where commands
-  and messages from commands.yml
-  weren't being sent
+2.2.0
+- Fixed /dump command was not working
+  properly
+
+- Improvements over how the plugin detects
+  if a player celebrated his birthday
