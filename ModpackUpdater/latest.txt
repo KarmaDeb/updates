@@ -1,28 +1,11 @@
-1.2.3
+1.2.4
 https://karmaconfigs.github.io/updates/ModpackUpdater/ModpackTool.jar
 false
-- Fixed tool url input wasn't pasting
-urls with : and wasn't able to be
-writed manually
+- Implemented CurseForge mod downloader,
+now you can download mods directly to your
+mods folder using the tool
 
-1.2.2
-- Fixed tool wasn't opening on some systems
-- Fixed tool wasn't updating
-- Re-worked the tool, completely
-- Now the tool creation tool allows
-you to specify name, author, version
-and description, which one allows markdown
-format
-- The tool now allows you to include worlds
-and select the textures, shaders and worlds
-to include
-- The tool now hashes and compress the files
-and unhashes and uncompress them when downloaded
-- The tool now generates an mpu file, which can be
-opened with the tool to download the modpack without
-needing a host
-- The tool now uses json to get modpack data
-- Improved tool text areas to indicate when something
-is wrong
-- Removed complex and simple version since now the
-tool has a clean GUI again
+1.2.3
+- Fixed tool url input wasn't pasting
+-urls with : and wasn't able to be
+-writed manually
