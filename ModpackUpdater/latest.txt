@@ -1,6 +1,10 @@
-1.2.6
+1.2.7
 https://karmaconfigs.github.io/updates/ModpackUpdater/ModpackTool.jar
 true
+- Fixed shaderpacks downloading ( You will have
+to create your modpack again if it contains shaderpacks )
+
+1.2.6
 - Fixed more errors related with version-ed
 mods
 
