@@ -1,6 +1,10 @@
-1.2.5
+1.2.6
 https://karmaconfigs.github.io/updates/ModpackUpdater/ModpackTool.jar
 false
+- Fixed more errors related with version-ed
+mods
+
+1.2.5
 - Fixed modpack creator wasn't copying
 mods for mods/<version/ folder
 
