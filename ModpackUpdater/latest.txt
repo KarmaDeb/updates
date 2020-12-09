@@ -19,5 +19,5 @@ mods folder using the tool
 
 1.2.3
 - Fixed tool url input wasn't pasting
--urls with : and wasn't able to be
--writed manually
+urls with : and wasn't able to be
+writed manually
