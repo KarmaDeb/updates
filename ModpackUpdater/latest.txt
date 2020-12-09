@@ -1,6 +1,10 @@
-1.2.7
+1.2.8
 https://karmaconfigs.github.io/updates/ModpackUpdater/ModpackTool.jar
-true
+false
+- Fixed a big bug related with files
+( were being downloaded corrupted )
+
+1.2.7
 - Fixed shaderpacks downloading ( You will have
 to create your modpack again if it contains shaderpacks )
 
@@ -16,8 +20,3 @@ mods for mods/<version/ folder
 - Implemented CurseForge mod downloader,
 now you can download mods directly to your
 mods folder using the tool
-
-1.2.3
-- Fixed tool url input wasn't pasting
-urls with : and wasn't able to be
-writed manually
