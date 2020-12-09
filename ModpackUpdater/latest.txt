@@ -1,6 +1,6 @@
 1.2.6
 https://karmaconfigs.github.io/updates/ModpackUpdater/ModpackTool.jar
-false
+true
 - Fixed more errors related with version-ed
 mods
 
