@@ -1,6 +1,10 @@
-1.2.4
+1.2.5
 https://karmaconfigs.github.io/updates/ModpackUpdater/ModpackTool.jar
 false
+- Fixed modpack creator wasn't copying
+mods for mods/<version/ folder
+
+1.2.4
 - Implemented CurseForge mod downloader,
 now you can download mods directly to your
 mods folder using the tool
