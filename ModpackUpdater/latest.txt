@@ -1,6 +1,15 @@
-1.2.8
+1.2.9
 https://karmaconfigs.github.io/updates/ModpackUpdater/ModpackTool.jar
 false
+- Improved the way the modpack creates the list
+of mods in data.json, fixing a problem where
+some mods were not added to it.
+- Added a mod manager button in mod downloader,
+that helps you to disable, delete and re-enable
+disabled mods for your modpack.
+Instructions will appear when this button is clicked
+
+1.2.8
 - Fixed a big bug related with files
 ( were being downloaded corrupted )
 
@@ -15,8 +24,3 @@ mods
 1.2.5
 - Fixed modpack creator wasn't copying
 mods for mods/<version/ folder
-
-1.2.4
-- Implemented CurseForge mod downloader,
-now you can download mods directly to your
-mods folder using the tool
