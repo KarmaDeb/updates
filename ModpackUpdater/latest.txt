@@ -8,6 +8,8 @@ some mods were not added to it.
 that helps you to disable, delete and re-enable
 disabled mods for your modpack.
 Instructions will appear when this button is clicked
+- The CurseForge download will now detect mod depedendencies
+and try to download them
 
 1.2.8
 - Fixed a big bug related with files
