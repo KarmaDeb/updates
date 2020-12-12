@@ -1,6 +1,6 @@
 1.3.0
 https://karmaconfigs.github.io/updates/ModpackUpdater/ModpackInstaller.jar
-false
+true
 - Implemented minecraft launch option
 - Added tooltip texts
 - Tried to fix installer was running
