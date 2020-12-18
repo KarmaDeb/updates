@@ -1,6 +1,10 @@
-1.3.4
+1.3.5
 https://karmaconfigs.github.io/updates/ModpackUpdater/ModpackInstaller.jar
 true
+- Fixed exported debugs were being generated
+without any info
+
+1.3.4
 - Fixed timers for +1min downloads
 times
 - Tried to fix a problem in where
@@ -18,10 +22,3 @@ mc version when launching, versions over
 
 1.3.1
 - Fixed creator tool
-
-1.3.0
-- Implemented minecraft launch option
-- Added tooltip texts
-- Tried to fix installer was running
-the tool in the main directory instead
-of the tool directory
