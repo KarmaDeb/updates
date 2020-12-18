@@ -1,6 +1,13 @@
-1.3.3
+1.3.4
 https://karmaconfigs.github.io/updates/ModpackUpdater/ModpackInstaller.jar
 true
+- Fixed timers for +1min downloads
+times
+- Tried to fix a problem in where
+the tool was trying to download browser
+natives everytime you click on
+
+1.3.3
 - Added download bar to java
 and browser natives files
 
@@ -18,14 +25,3 @@ mc version when launching, versions over
 - Tried to fix installer was running
 the tool in the main directory instead
 of the tool directory
-
-1.2.9
-- Improved the way the modpack creates the list
-of mods in data.json, fixing a problem where
-some mods were not added to it.
-- Added a mod manager button in mod downloader,
-that helps you to disable, delete and re-enable
-disabled mods for your modpack.
-Instructions will appear when this button is clicked
-- The CurseForge download will now detect mod depedendencies
-and try to download them
