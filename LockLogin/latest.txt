@@ -3,7 +3,7 @@
   - Fixed problems with LockLogin module
     system to load a module when the server
     full path/plugin name contains spaces
-  - Removed LockLogin legavy
+  - Removed LockLogin legacy
     API support
   - Added an advanced filtering
     option in config, that will filter
