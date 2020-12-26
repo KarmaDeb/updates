@@ -1,5 +1,8 @@
 1.0.2.2
 
+  - Fixed problems with LockLogin module
+    system to load a module when the server
+    full path/plugin name contains spaces
   - Removed LockLogin legavy
     API support
   - Added an advanced filtering
