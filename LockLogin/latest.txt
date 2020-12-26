@@ -1,4 +1,8 @@
-1.0.2.1
+1.0.2.2
 
-  - Fixed messages wasn't being
-    generated properly
+  - Removed LockLogin legavy
+    API support
+  - Added an advanced filtering
+    option in config, that will filter
+    any message that contains /login /register...
+  - Minor fixes in LockLogin Installation Media
