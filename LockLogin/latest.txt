@@ -1,11 +1,3 @@
-1.0.2.2
+1.0.2.3
 
-  - Fixed problems with LockLogin module
-    system to load a module when the server
-    full path/plugin name contains spaces
-  - Removed LockLogin legacy
-    API support
-  - Added an advanced filtering
-    option in config, that will filter
-    any message that contains /login /register...
-  - Minor fixes in LockLogin Installation Media
+  - Tried to fix some issues with files
