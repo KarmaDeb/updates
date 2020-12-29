@@ -1,3 +1,8 @@
-1.0.2.3
+1.0.2.4
 
-  - Tried to fix some issues with files
+  - Fixed bugs by updating KarmaAPI
+
+
+  _eINFO
+_7KarmaAPI is a built-in API that LockLogin
+_7uses to generate files and other stuff
