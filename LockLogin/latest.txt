@@ -1,6 +1,6 @@
-1.0.2.4
+1.0.2.5
 
-  - Fixed bugs by updating KarmaAPI
+  - TRIED to fix more bugs by updating KarmaAPI
 
 
   _eINFO
