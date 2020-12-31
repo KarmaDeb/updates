@@ -1,6 +1,6 @@
-1.0.2.5
+1.0.2.6
 
-  - TRIED to fix more bugs by updating KarmaAPI
+  - Fixed a problem with LockLogin in bungeecord
 
 
   _eINFO
