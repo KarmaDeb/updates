@@ -1,6 +1,6 @@
-1.0.2.6
+1.0.2.7
 
-  - Fixed a problem with LockLogin in bungeecord
+  - Improved passwords salt ( more secure )
 
 
   _eINFO
