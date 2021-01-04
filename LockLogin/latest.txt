@@ -1,6 +1,6 @@
-1.0.2.7
+1.0.2.8
 
-  - Improved passwords salt ( more secure )
+  - Tried to fix salt errors with some users
 
 
   _eINFO
