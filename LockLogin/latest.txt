@@ -1,3 +1,20 @@
-1.0.2.9
+1.0.3.0
 
-  - Fixed passwords salt
+  - Fixed tons of file problems
+  - Added the ability to download
+    plugin updates with update system
+    disabled
+  - Finally you can see plugin version
+    using a command
+
+_bNew commands
+
+  - /updateChecker
+    Arguments:
+    --version
+    --update
+    --forceUpdate
+
+_bChanges
+
+  - Plugin downloads are now async
