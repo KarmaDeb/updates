@@ -1,20 +1,12 @@
-1.0.3.0
+1.0.3.1
 
-  - Fixed tons of file problems
-  - Added the ability to download
-    plugin updates with update system
-    disabled
-  - Finally you can see plugin version
-    using a command
+  - Minor bug fixes
+  - Added the option to ignore CA
+    certificates on MySQL connections
 
-_bNew commands
+_bMinor bug fixes
+  _eFixed BungeeCord wasn't sending the player
+  _eto the correspondent server
 
-  - /updateChecker
-    Arguments:
-    --version
-    --update
-    --forceUpdate
-
-_bChanges
-
-  - Plugin downloads are now async
+  _eFixed a bug with IpPerAccounts not working
+  _eproperly
