@@ -1,6 +1,5 @@
-2.2.0
-- Fixed /dump command was not working
-  properly
-
-- Improvements over how the plugin detects
-  if a player celebrated his birthday
+2.2.1
+- Added support for Java from 8 to 15
+- Added placeholders
+- Check https://www.spigotmc.org/resources/playerbirthday.73424/update?update=380132 for more info
+  about placeholders
