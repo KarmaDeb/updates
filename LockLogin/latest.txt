@@ -7,7 +7,9 @@
     fixed a lot of LockLogin flat
     problems
 
+
 _bYOU CAN DO IT NOW!
+
 _eTo switch now from LockLogin fat to LockLogin
 _eflat, update your plugin to 1.0.3.2 and run the command
 _e/updateChecker switchFlat
