@@ -1,12 +1,13 @@
-1.0.3.1
+1.0.3.2
 
-  - Minor bug fixes
-  - Added the option to ignore CA
-    certificates on MySQL connections
+  - LockLogin fat and LockLogin
+    installation media will be
+    removed soon, as switching
+    LockLogin jdk 8, to jdk 15
+    fixed a lot of LockLogin flat
+    problems
 
-_bMinor bug fixes
-  _eFixed BungeeCord wasn't sending the player
-  _eto the correspondent server
-
-  _eFixed a bug with IpPerAccounts not working
-  _eproperly
+_bYOU CAN DO IT NOW!
+_eTo switch now from LockLogin fat to LockLogin
+_eflat, update your plugin to 1.0.3.2 and run the command
+_e/updateChecker switchFlat
