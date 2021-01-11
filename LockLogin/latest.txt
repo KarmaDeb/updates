@@ -1,15 +1,12 @@
-1.0.3.2
+1.0.3.3
 
-  - LockLogin fat and LockLogin
-    installation media will be
-    removed soon, as switching
-    LockLogin jdk 8, to jdk 15
-    fixed a lot of LockLogin flat
-    problems
+  - Restored support for java < 15
+  - Updates changelog now displays correctly
 
+_bYOU SHOULD SWITCH TO JAVA 15
 
-_bYOU CAN DO IT NOW!
+_eCALM, THE OTHER UPDATE WAS AN ALERT UPDATE
+_eIT DIDN'T CONTAIN ANY IMPORTANT CODE CHANGE
+_eIT WASN'T AN UPDATE AT ALL.
 
-_eTo switch now from LockLogin fat to LockLogin
-_eflat, update your plugin to 1.0.3.2 and run the command
-_e/updateChecker switchFlat
+_eI ALREADY KNOW IT WOULDN'T WORK IN JAVA < 15
