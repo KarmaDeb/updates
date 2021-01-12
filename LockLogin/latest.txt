@@ -1,12 +1,5 @@
-1.0.3.3
+1.0.3.4
 
-  - Restored support for java < 15
-  - Updates changelog now displays correctly
+  - Fixed a bungeecord problem
 
-_bYOU SHOULD SWITCH TO JAVA 15
-
-_eCALM, THE OTHER UPDATE WAS AN ALERT UPDATE
-_eIT DIDN'T CONTAIN ANY IMPORTANT CODE CHANGE
-_eIT WASN'T AN UPDATE AT ALL.
-
-_eI ALREADY KNOW IT WOULDN'T WORK IN JAVA < 15
+_bYOU SHOULD SWITCH TO LOCKLOGIN FLAT
