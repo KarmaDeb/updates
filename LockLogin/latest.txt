@@ -4,3 +4,5 @@
   - Code optimization
 
 _bYOU SHOULD SWITCH TO LOCKLOGIN FLAT
+
+_cREMEMBER YOU CAN UPDATE BY TYPING /updateChecker --update
