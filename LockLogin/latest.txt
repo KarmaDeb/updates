@@ -15,3 +15,5 @@ _7 Lookup command now opens a GUI instead of chat message
 
 _7 IP storager system now uses static IP array to optimize
 _7 a little bit its functionality
+
+_4 Temporarily disabled lookup command in BungeeCord ( for players )
