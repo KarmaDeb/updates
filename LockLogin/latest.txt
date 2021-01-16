@@ -4,7 +4,7 @@
 
 _bMinor bug fixes
 
-_7 Fixed max accounts per IP problems
+_7 Fixed max accounts register per IP problems
 
 _7 Completely reworked ip storage system
 
