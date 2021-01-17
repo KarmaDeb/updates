@@ -1,12 +1,17 @@
-1.0.3.8
+1.0.3.9
 
-  - Fixed plugin auto update system was generating
-    errors and never updating
+  - If a player leaves the server while dead
+    he will be respawned on join ( only if spawn
+    feature is enabled )
 
-_bList of fixes from 1.0.3.6 to 1.0.3.7
+  - Important fixes on bungeecord
 
-_7 Fixed max register accounts
-_7 Fixed authme migrated login
-_7 Fixed switchFlat command not working
-_7 Changed switchFlat command to --switchFlat
-_7 Code optimizations
+  - Applied some changes to LockLogin fat version
+
+_f---------------- _dIMPORTANT _f----------------
+                                              _f|
+_bYou should switch to LockLogin flat as      _f|
+_bsupport for fat version will be dropped     _f|
+_bon 1st August this year                     _f|
+                                              _f|
+_f-----------------------------------------------
