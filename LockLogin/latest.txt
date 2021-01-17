@@ -1,19 +1,11 @@
-1.0.3.6
+1.0.3.7
 
   - Minor bug fixes
 
-_bMinor bug fixes
+_bMinor bug fixes _7( _f1.0.3.6 - 1.0.3.7 _7)
 
-_7 Fixed max accounts register per IP problems
-
-_7 Completely reworked ip storage system
-
-_7 Lookup command now does not require -p or -a
-_7 just use the player name
-
-_7 Lookup command now opens a GUI instead of chat message
-
-_7 IP storager system now uses static IP array to optimize
-_7 a little bit its functionality
-
-_4 Temporarily disabled lookup command in BungeeCord ( for players )
+_7 Fixed max register accounts
+_7 Fixed authme migrated login
+_7 Fixed switchFlat command not working
+_7 Changed switchFlat command to --switchFlat
+_7 Code optimizations
