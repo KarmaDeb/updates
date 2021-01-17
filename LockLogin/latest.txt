@@ -1,8 +1,9 @@
-1.0.3.7
+1.0.3.8
 
-  - Minor bug fixes
+  - Fixed plugin auto update system was generating
+    errors and never updating
 
-_bMinor bug fixes _7( _f1.0.3.6 - 1.0.3.7 _7)
+_bList of fixes from 1.0.3.6 to 1.0.3.7
 
 _7 Fixed max register accounts
 _7 Fixed authme migrated login
