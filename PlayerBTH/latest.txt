@@ -1,5 +1,2 @@
-2.2.1
-- Added support for Java from 8 to 15
-- Added placeholders
-- Check https://www.spigotmc.org/resources/playerbirthday.73424/update?update=380132 for more info
-  about placeholders
+2.2.2
+- Added configuration of placeholders
