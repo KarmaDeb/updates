@@ -1,12 +1,7 @@
-1.0.3.9
+1.0.4.0
 
-  - If a player leaves the server while dead
-    he will be respawned on join ( only if spawn
-    feature is enabled )
-
-  - Important fixes on bungeecord
-
-  - Applied some changes to LockLogin fat version
+  - Fixed potential bugs with /lookup on legacy
+    minecraft
 
 _f---------------- _dIMPORTANT _f----------------
 
