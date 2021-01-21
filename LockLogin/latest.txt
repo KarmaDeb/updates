@@ -1,7 +1,7 @@
-1.0.4.0
+1.0.4.1
 
-  - Fixed potential bugs with /lookup on legacy
-    minecraft
+  - Minor bug fixes
+  - Re-implemented lookup command in BungeeCord
 
 _f---------------- _dIMPORTANT _f----------------
 
