@@ -1,7 +1,6 @@
-1.0.4.1
+1.0.4.2
 
   - Minor bug fixes
-  - Re-implemented lookup command in BungeeCord
 
 _f---------------- _dIMPORTANT _f----------------
 
