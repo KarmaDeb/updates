@@ -9,4 +9,8 @@
 - Tool will now ignore scan if
   key world filter is empty
 
+- Tool will now allow to open 
+  links that has been found in
+  log files
+
 - Improved UI
