@@ -7,9 +7,9 @@
   of showing them separately
 
 - Tool will now ignore scan if
-  key world filter is empty
+  key word filter is empty
 
-- Tool will now allow to open 
+- Tool will now allow to open
   links that has been found in
   log files
 
