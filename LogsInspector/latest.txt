@@ -1,0 +1,12 @@
+1.2
+- Tool has now a version
+  checker built in
+
+- Tool will now merge
+  log files into one, instead
+  of showing them separately
+
+- Tool will now ignore scan if
+  key world filter is empty
+
+- Improved UI
