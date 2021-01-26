@@ -1,16 +1,15 @@
-1.0.4.3
+1.0.4.4
 
-  - Minor bug fixes
+  - Fixed bungeecord problems
 
-  - Reimplemented migration for MySQL
-    to yaml in LockLogin bungeecord
-
-  - Changes on some API events
+  - Fixed some bugs with console filter
+    ( only fixed in flat version )
 
 _f---------------- _dIMPORTANT _f----------------
 
 _bYou should switch to LockLogin flat as
 _bsupport for fat version will be dropped
-_bon 1st August this year
+_bon 1st August this year, and will stop receiving
+_bupdates after update 1.0.4.4
 
 _f---------------- _dIMPORTANT _f----------------
