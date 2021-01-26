@@ -1,6 +1,11 @@
-1.0.4.2
+1.0.4.3
 
   - Minor bug fixes
+
+  - Reimplemented migration for MySQL
+    to yaml in LockLogin bungeecord
+
+  - Changes on some API events
 
 _f---------------- _dIMPORTANT _f----------------
 
