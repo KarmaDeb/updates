@@ -1,8 +1,11 @@
-1.0.4.4
+1.0.4.5
 
   - Fixed bungeecord problems
 
   - Fixed some bugs with console filter
+    ( only fixed in flat version )
+
+  - Fixed some messages problems
     ( only fixed in flat version )
 
 _f---------------- _dIMPORTANT _f----------------
