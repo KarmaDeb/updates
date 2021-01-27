@@ -1,12 +1,15 @@
-1.0.4.5
+1.0.4.6
 
-  - Fixed bungeecord problems
+  - Minor bug fixes
 
-  - Fixed some bugs with console filter
-    ( only fixed in flat version )
+  - Added password recovery system via
+    email ( requires extra configuration on
+    mail.yml and user to type /setmail )
 
-  - Fixed some messages problems
-    ( only fixed in flat version )
+  - Re-organized plugin files, message files will
+    be now in a lang folder
+
+  - Registered migration command in bungeecord
 
 _f---------------- _dIMPORTANT _f----------------
 
