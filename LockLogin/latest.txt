@@ -1,15 +1,9 @@
-1.0.4.6
+1.0.4.7
 
-  - Minor bug fixes
+  - Fixed a problem with migrated accounts
+    authentication
 
-  - Added password recovery system via
-    email ( requires extra configuration on
-    mail.yml and user to type /setmail )
-
-  - Re-organized plugin files, message files will
-    be now in a lang folder
-
-  - Registered migration command in bungeecord
+  - Added encryption to emails
 
 _f---------------- _dIMPORTANT _f----------------
 
