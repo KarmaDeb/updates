@@ -1,11 +1,6 @@
-1.0.4.9
+1.0.5.0
 
-  - Fixed BungeeCord was not generating
-    email config file ( mail.yml )
-
-  - LockLogin installation media will
-    install LockLogin flat automatically
-    after 10 seconds
+  - Fixed BungeeCord problems
 
 _f---------------- _dIMPORTANT _f----------------
 
