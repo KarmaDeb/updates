@@ -1,9 +1,6 @@
-1.0.4.7
+1.0.4.8
 
-  - Fixed a problem with migrated accounts
-    authentication
-
-  - Added encryption to emails
+  - Fixed an error when a player joins
 
 _f---------------- _dIMPORTANT _f----------------
 
