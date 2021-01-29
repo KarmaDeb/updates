@@ -1,6 +1,10 @@
-1.0.5.1
+1.0.5.2
 
-  - Fixed updater problems
+  - Tried to improve how LockLogin BungeeCord
+    verifies player has joined though BungeeCord
+
+  - Added a message sent when a player with alt accounts
+    joins the server ( requires /lookup permission )
 
 _f---------------- _dIMPORTANT _f----------------
 
