@@ -1,6 +1,6 @@
-1.0.5.0
+1.0.5.1
 
-  - Fixed BungeeCord problems
+  - Fixed updater problems
 
 _f---------------- _dIMPORTANT _f----------------
 
