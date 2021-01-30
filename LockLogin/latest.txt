@@ -1,10 +1,12 @@
-1.0.5.2
+1.0.5.3
 
-  - Tried to improve how LockLogin BungeeCord
-    verifies player has joined though BungeeCord
+  - Fixed some 2fa problems on BungeeCord
 
-  - Added a message sent when a player with alt accounts
-    joins the server ( requires /lookup permission )
+  - Removed FileType in config.yml, LockLogin
+    flat is now LockLogin
+
+  - Removed LockLogin fat and LockLogin IM
+    ( Support stills until 1st August )
 
 _f---------------- _dIMPORTANT _f----------------
 
