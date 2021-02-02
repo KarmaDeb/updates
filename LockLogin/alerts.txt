@@ -1,2 +1,2 @@
-_eNOTICE
-_7The future of LockLogin... LockLogin flat and LockLogin installation media will stop existing in August this year, support for LockLogin fat and LockLogin IM will be drop then
+_4IMPORTANR
+_cLockLogin support has been reduced due personal problems, we detected a big issue with mysql system, please avoid using it if you can
