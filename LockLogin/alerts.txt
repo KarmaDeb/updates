@@ -1,2 +1,2 @@
-_4IMPORTANR
-_cLockLogin support has been reduced due personal problems, we detected a big issue with mysql system, please avoid using it if you can
+_7INFO
+_bRemember to always use the latest version of your plugins
