@@ -1,9 +1,9 @@
-1.0.5.4
+1.0.5.5
 
-  - Fixed MySQL problems
-
-  - Added /locklogin modules in Spigot
-  - Added /modules in BungeeCord
+  - Splitted email system into a module
+    read https://www.spigotmc.org/resources/gsa-locklogin.75156/
+    to download it. Otherwise it will be auto-downloaded
+    if valid email configuration is detected
 
 _f---------------- _dIMPORTANT _f----------------
 
