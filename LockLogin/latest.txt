@@ -1,9 +1,6 @@
-1.0.5.5
+1.0.5.6
 
-  - Splitted email system into a module
-    read https://www.spigotmc.org/resources/gsa-locklogin.75156/
-    to download it. Otherwise it will be auto-downloaded
-    if valid email configuration is detected
+  - Minor bug fixes over max register accounts system
 
 _f---------------- _dIMPORTANT _f----------------
 
