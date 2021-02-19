@@ -1,6 +1,11 @@
-1.0.5.6
+1.0.5.7
 
-  - Minor bug fixes over max register accounts system
+  - Completely fixed /lookup command in BungeeCord
+  - Fixed registration max system in BungeeCord
+  - Removed auto update system ( updated jar will be
+    now downloaded automatically, applying update from
+    that jar is completely optional )
+  - Fixed some command messages
 
 _f---------------- _dIMPORTANT _f----------------
 
