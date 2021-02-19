@@ -2,6 +2,7 @@
 
   - Completely fixed /lookup command in BungeeCord
   - Fixed registration max system in BungeeCord
+  - Fixed /updateChecker in BungeeCord
   - Removed auto update system ( updated jar will be
     now downloaded automatically, applying update from
     that jar is completely optional )
