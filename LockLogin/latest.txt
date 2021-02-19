@@ -1,12 +1,15 @@
-1.0.5.7
+1.0.5.8
 
-  - Completely fixed /lookup command in BungeeCord
-  - Fixed registration max system in BungeeCord
-  - Fixed /updateChecker in BungeeCord
-  - Removed auto update system ( updated jar will be
-    now downloaded automatically, applying update from
-    that jar is completely optional )
-  - Fixed some command messages
+  - Fixed /lookup command issuer player head was
+    being showed in the lookup GUI
+  - Fixed /lookup command was causing server lags
+  - Fixed alt accounts found message
+
+  - Made /lookup command async, so it won't cause
+    any lag now
+  - Player head textures will be stored now with
+    a timestamp of 1 day ( the cache will be reloaded
+    every 1 day if required )
 
 _f---------------- _dIMPORTANT _f----------------
 
