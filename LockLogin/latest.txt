@@ -1,15 +1,7 @@
-1.0.5.8
+1.0.5.9
 
-  - Fixed /lookup command issuer player head was
-    being showed in the lookup GUI
-  - Fixed /lookup command was causing server lags
-  - Fixed alt accounts found message
-
-  - Made /lookup command async, so it won't cause
-    any lag now
-  - Player head textures will be stored now with
-    a timestamp of 1 day ( the cache will be reloaded
-    every 1 day if required )
+  - Added an extra check for nether portal fixing
+    a world mismatch error
 
 _f---------------- _dIMPORTANT _f----------------
 
