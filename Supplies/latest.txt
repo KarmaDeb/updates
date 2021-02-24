@@ -1,4 +1,6 @@
 1.0.1
 https://www.spigotmc.org/resources/gsa-supplies.78586/
-- LOLOLOL
-- This is a changelog line
+
+_3-_e LOLOLOL
+
+_3-_e This is a changelog line
