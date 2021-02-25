@@ -1,7 +1,7 @@
-1.0.6.0
+1.0.6.1
 
-  - Fixed main lobby was not being used
-    when auth lobby disabled in BungeeCord
+  - Fixed bungeecord was not sending
+    the player to the lobby server
 
 _f---------------- _dIMPORTANT _f----------------
 
