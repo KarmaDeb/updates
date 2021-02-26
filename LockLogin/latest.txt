@@ -1,7 +1,6 @@
-1.0.6.1
+1.0.6.2
 
-  - Fixed bungeecord was not sending
-    the player to the lobby server
+  - Fixed bungeecord command: playerinf
 
 _f---------------- _dIMPORTANT _f----------------
 
