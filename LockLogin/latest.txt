@@ -1,6 +1,8 @@
-1.0.6.2
+1.0.6.3
 
-  - Fixed bungeecord command: playerinf
+  - Implemented updates channel
+  - Prepared plugin for Azuriom support
+    ( Azuriom plugin is not released yet )
 
 _f---------------- _dIMPORTANT _f----------------
 
