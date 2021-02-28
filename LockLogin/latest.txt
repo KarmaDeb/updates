@@ -1,8 +1,7 @@
-1.0.6.3
+1.0.6.4
 
-  - Implemented updates channel
-  - Prepared plugin for Azuriom support
-    ( Azuriom plugin is not released yet )
+  - Fixed MySQL related issues in BungeeCord
+  - Optimizations in Spigot
 
 _f---------------- _dIMPORTANT _f----------------
 
