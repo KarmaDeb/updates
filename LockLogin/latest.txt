@@ -1,7 +1,7 @@
-1.0.6.4
+1.0.6.5
 
-  - Fixed MySQL related issues in BungeeCord
-  - Optimizations in Spigot
+  - Fixed null IP exceptions
+  - Fixed null messages problems
 
 _f---------------- _dIMPORTANT _f----------------
 
