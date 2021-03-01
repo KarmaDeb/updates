@@ -1,4 +1,4 @@
-RC 1.0.6.6
+RC1.0.6.6
 
   - Added support for Argon2i
   - Added support for Argon2id
