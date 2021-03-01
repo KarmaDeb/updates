@@ -1,7 +1,9 @@
-1.0.6.5
+RC 1.0.6.6
 
-  - Fixed null IP exceptions
-  - Fixed null messages problems
+  - Added support for Argon2i
+  - Added support for Argon2id
+  - Added the ability to choose what
+    encryption method you want to use
 
 _f---------------- _dIMPORTANT _f----------------
 
