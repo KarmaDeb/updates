@@ -4,6 +4,7 @@
   - Added support for Argon2id
   - Added the ability to choose what
     encryption method you want to use
+  - Minor bug fixes in migration system
   - Minor bug fixes on updater system
 
 _f---------------- _dIMPORTANT _f----------------
