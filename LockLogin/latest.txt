@@ -1,9 +1,10 @@
-RC1.0.6.6
+1.0.6.6
 
   - Added support for Argon2i
   - Added support for Argon2id
   - Added the ability to choose what
     encryption method you want to use
+  - Minor bug fixes on updater system
 
 _f---------------- _dIMPORTANT _f----------------
 
