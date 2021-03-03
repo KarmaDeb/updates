@@ -1,9 +1,8 @@
-1.0.6.8
+1.0.6.9
 
-  - Fixed a problem with player join event
-  - Fixed empty message with AntiBot enabled
-  - Updated kick event handler to do some other
-    bug fixes
+  - Fixed yaml -> MySQL migration system
+    was not working
+  - Fixed MySQL accounts were not being created
 
 _f---------------- _dIMPORTANT _f----------------
 
