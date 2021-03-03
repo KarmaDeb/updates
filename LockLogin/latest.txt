@@ -1,11 +1,9 @@
-1.0.6.7
+1.0.6.8
 
-  - Added migration with LoginSecurity
-  - Made AuthMe migration in MySQL not automatic
-  - Added an ignored columns option in mysql.yml, these
-    columns won't be removed by LockLogin automatically.
-    By default Azuriom and LockLogin columns
-    are ignored, with LoginSecurity and AuthMe realName column
+  - Fixed a problem with player join event
+  - Fixed empty message with AntiBot enabled
+  - Updated kick event handler to do some other
+    bug fixes
 
 _f---------------- _dIMPORTANT _f----------------
 
