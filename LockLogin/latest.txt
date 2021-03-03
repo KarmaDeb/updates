@@ -1,11 +1,11 @@
-1.0.6.6
+1.0.6.7
 
-  - Added support for Argon2i
-  - Added support for Argon2id
-  - Added the ability to choose what
-    encryption method you want to use
-  - Minor bug fixes in migration system
-  - Minor bug fixes on updater system
+  - Added migration with LoginSecurity
+  - Made AuthMe migration in MySQL not automatic
+  - Added an ignored columns option in mysql.yml, these
+    columns won't be removed by LockLogin automatically.
+    By default Azuriom and LockLogin columns
+    are ignored, with LoginSecurity and AuthMe realName column
 
 _f---------------- _dIMPORTANT _f----------------
 
