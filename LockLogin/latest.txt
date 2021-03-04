@@ -1,4 +1,4 @@
-1.0.7.2
+1.0.7.3
 
   - Patched a potential exploit which would
     allow players to navigate between servers
@@ -7,6 +7,8 @@
     with auth or main server disabled in BungeeCord
   - Fixed players were not being sent to the correct
     server after auth process
+  - Fixed some inventory problems with BungeeCord
+    ( requires spigot instance update )
 
 _f---------------- _dIMPORTANT _f----------------
 
