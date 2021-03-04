@@ -1,8 +1,10 @@
-1.0.7.1
+1.0.7.2
 
   - Patched a potential exploit which would
     allow players to navigate between servers
     without being logged in.
+  - Fixed an exception while logging-in / registering
+    with auth or main server disabled in BungeeCord
   - Fixed players were not being sent to the correct
     server after auth process
 
