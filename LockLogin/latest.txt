@@ -1,8 +1,10 @@
-1.0.6.9
+1.0.7.0
 
-  - Fixed yaml -> MySQL migration system
-    was not working
-  - Fixed MySQL accounts were not being created
+  - Patched a potential exploit which would
+    allow players to navigate between servers
+    without being logged in.
+  - Fixed players were not being sent to the correct
+    server after auth process
 
 _f---------------- _dIMPORTANT _f----------------
 
