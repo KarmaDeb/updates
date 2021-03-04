@@ -1,4 +1,4 @@
-1.0.7.0
+1.0.6.9
 
   - Patched a potential exploit which would
     allow players to navigate between servers
