@@ -1,8 +1,9 @@
-SNAPSHOT1.0.7.4
+RC1.0.7.4
 
   - Fixed locklogin applyUpdates command in spigot
-  - Started implementation of captcha system
+  - Implemented new captcha system
   - Improved AntiBot system
+  - Minor bug fixes and optimizations in MySQL
 
 _f---------------- _dIMPORTANT _f----------------
 
