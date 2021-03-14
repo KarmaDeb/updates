@@ -1,4 +1,4 @@
-RC1.0.7.4
+1.0.7.4
 
   - Fixed locklogin applyUpdates command in spigot
   - Implemented new captcha system
