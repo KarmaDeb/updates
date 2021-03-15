@@ -1,9 +1,7 @@
-1.0.7.4
+1.0.7.5
 
-  - Fixed locklogin applyUpdates command in spigot
-  - Implemented new captcha system
-  - Improved AntiBot system
-  - Minor bug fixes and optimizations in MySQL
+  - Fixed another exploit
+  - Fixed plugin in BungeeCord
 
 _f---------------- _dIMPORTANT _f----------------
 
