@@ -1,7 +1,16 @@
-1.0.7.5
+SNAPSHOT1.0.7.6
 
-  - Fixed another exploit
-  - Fixed plugin in BungeeCord
+  - Added captcha "DISABLED" option
+  - Added a lot of new options to captcha
+  - Moved captcha message to an ActionBar
+  - Added russian translation
+  - Added the option to modify login/register message interval
+  - Made the plugin send a warning to console when the updater is disabled
+  - Made the plugin use bungeecord messages when bungeecord mode
+  - Made bungeecord use /locklogin <sub_command> as in spigot
+  - Updated Bungeecord plugin manager to do some fixes
+  - Added /locklogin reload, which will reload plugin without updating if available
+  - [FOR DEVELOPERS] API changes
 
 _f---------------- _dIMPORTANT _f----------------
 
