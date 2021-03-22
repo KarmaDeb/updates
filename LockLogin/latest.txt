@@ -1,7 +1,7 @@
-1.0.7.7
+1.0.7.8
 
-  - Fixed some files were not being created
-    causing a lot of exceptions
+  - Fixed MySQL problems
+  - Fixed applyUpdates command not working
 
 1.0.7.6
 
