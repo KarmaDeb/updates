@@ -1,4 +1,4 @@
-RCT1.0.7.6
+1.0.7.6
 
   - Added captcha "DISABLED" option
   - Added a lot of new options to captcha
@@ -10,6 +10,7 @@ RCT1.0.7.6
   - Made bungeecord use /locklogin <sub_command> as in spigot
   - Updated Bungeecord plugin manager to do some fixes
   - Added /locklogin reload, which will reload plugin without updating if available
+  - Added motd ( motd.locklogin )
   - [FOR DEVELOPERS] API changes
 
 _f---------------- _dIMPORTANT _f----------------
