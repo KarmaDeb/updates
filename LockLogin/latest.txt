@@ -1,7 +1,6 @@
-1.0.7.8
+1.0.7.9
 
-  - Fixed MySQL problems
-  - Fixed applyUpdates command not working
+  - Fixed more MySQL problems
 
 1.0.7.6
 
