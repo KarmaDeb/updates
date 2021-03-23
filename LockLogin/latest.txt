@@ -1,21 +1,10 @@
-1.0.7.9
+1.0.8.0
 
   - Fixed more MySQL problems
-
-1.0.7.6
-
-  - Added captcha "DISABLED" option
-  - Added a lot of new options to captcha
-  - Moved captcha message to an ActionBar
-  - Added russian translation
-  - Added the option to modify login/register message interval
-  - Made the plugin send a warning to console when the updater is disabled
-  - Made the plugin use bungeecord messages when bungeecord mode
-  - Made bungeecord use /locklogin <sub_command> as in spigot
-  - Updated Bungeecord plugin manager to do some fixes
-  - Added /locklogin reload, which will reload plugin without updating if available
-  - Added motd ( motd.locklogin )
-  - [FOR DEVELOPERS] API changes
+  - Added an option to toggle AlreadyPlaying
+    protection in BungeeCord. ( This option is
+    useless and will be removed in a future from
+    BungeeCord. As BungeeCord already prevents that)
 
 _f---------------- _dIMPORTANT _f----------------
 
