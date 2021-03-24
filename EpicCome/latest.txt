@@ -1,4 +1,3 @@
-1.0.1
+1.0.2
 https://www.spigotmc.org/resources/epiccome-remastered.83691/
-- Fixed events registration and
-  unregistration
+- Updated to latest LockLogin API
