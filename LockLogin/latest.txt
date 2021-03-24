@@ -1,10 +1,18 @@
-1.0.8.0
+1.0.8.1
 
-  - Fixed more MySQL problems
-  - Added an option to toggle AlreadyPlaying
-    protection in BungeeCord. ( This option is
-    useless and will be removed in a future from
-    BungeeCord. As BungeeCord already prevents that)
+  - Fixed players were able to run commands
+    while captcha in BungeeCord
+  - Fixed an exception in legacy mc versions
+  - Fixed an exception thrown when plugin disabled
+  - Fixed more MySQL errors
+  - Fixed bungeecord was not sending the messages
+    to spigot instance
+
+  - Changed /updateChecker --update to /updateChecker --check
+  - Changed /updateChecker --forceUpdate to /updateChecker --update
+  - Changed /updateChecker --version&changelog to /updateChecker --changelog
+  - Moved BungeeProxy message from spigot configuration to messages.yml
+  - Made spigot read from BungeeCord messages ( including BungeeProxy message )
 
 _f---------------- _dIMPORTANT _f----------------
 
