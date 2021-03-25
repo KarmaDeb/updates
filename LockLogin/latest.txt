@@ -1,18 +1,11 @@
-1.0.8.1
+1.0.8.2
 
-  - Fixed players were able to run commands
-    while captcha in BungeeCord
-  - Fixed an exception in legacy mc versions
-  - Fixed an exception thrown when plugin disabled
-  - Fixed more MySQL errors
-  - Fixed bungeecord was not sending the messages
-    to spigot instance
-
-  - Changed /updateChecker --update to /updateChecker --check
-  - Changed /updateChecker --forceUpdate to /updateChecker --update
-  - Changed /updateChecker --version&changelog to /updateChecker --changelog
-  - Moved BungeeProxy message from spigot configuration to messages.yml
-  - Made spigot read from BungeeCord messages ( including BungeeProxy message )
+  - Fixed using \n to add new lines into messages was not working ( please use {newline} instead
+  - Fixed motd message was not respecting empty lines
+  - Fixed motd messages were not respecting delay time
+  - Fixed mysql errors while using azuriom
+  - Fixed bungeecord was not sending the player to the correct server sometimes
+  - Fixed bungeecord titles were "weird"
 
 _f---------------- _dIMPORTANT _f----------------
 
