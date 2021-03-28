@@ -1,11 +1,16 @@
-1.0.8.2
+1.0.8.3
 
-  - Fixed using \n to add new lines into messages was not working ( please use {newline} instead
-  - Fixed motd message was not respecting empty lines
-  - Fixed motd messages were not respecting delay time
-  - Fixed mysql errors while using azuriom
-  - Fixed bungeecord was not sending the player to the correct server sometimes
-  - Fixed bungeecord titles were "weird"
+  - Update plugin to use KarmaAPI 1.0.7
+  
+  - Downgrade plugin library Google Authenticator
+    to 1.4.0 to try to fix some invalid token generation
+    ( this may require a google auth token reset on the player account )
+
+  - Players last location are now saved when the
+    plugin is disabled
+
+  - Players are teleported to spawn when the
+    plugin is enabled
 
 _f---------------- _dIMPORTANT _f----------------
 
