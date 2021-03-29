@@ -1,20 +1,6 @@
-1.0.8.4
+1.0.8.5
 
-  - Fixed an error in BungeeCord
-
-1.0.8.3
-
-  - Update plugin to use KarmaAPI 1.0.7
-
-  - Downgrade plugin library Google Authenticator
-    to 1.4.0 to try to fix some invalid token generation
-    ( this may require a google auth token reset on the player account )
-
-  - Players last location are now saved when the
-    plugin is disabled
-
-  - Players are teleported to spawn when the
-    plugin is enabled
+  - Fixed problems with 2FA
 
 _f---------------- _dIMPORTANT _f----------------
 
