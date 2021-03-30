@@ -1,6 +1,6 @@
-1.0.8.5
+1.0.8.6
 
-  - Fixed problems with 2FA
+  - Fixed bungeecord ip storager problems
 
 _f---------------- _dIMPORTANT _f----------------
 
