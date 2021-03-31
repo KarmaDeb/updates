@@ -1,6 +1,6 @@
-1.0.8.6
+1.0.8.7
 
-  - Fixed bungeecord ip storager problems
+  - Optimized a little bit load time
 
 _f---------------- _dIMPORTANT _f----------------
 
