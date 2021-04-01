@@ -1,7 +1,7 @@
-1.0.8.8
+1.0.8.9
 
-  - Optimized a little bit load time
-  - Fixed unsuported opperation exceptions
+  - Fixed azuriom connection problems
+  - Fixed password problems with azuriom while using bcrypt
 
 _f---------------- _dIMPORTANT _f----------------
 
