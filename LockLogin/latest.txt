@@ -1,7 +1,11 @@
-1.0.8.9
+1.0.9.0
 
-  - Fixed azuriom connection problems
-  - Fixed password problems with azuriom while using bcrypt
+  - Fixed azuriom compatibility in spigot
+  - Fixed azuriom accounts created by LockLogin
+    were not able to access profile page
+
+  - In spigot, player account file has been
+    moved to LockLogin database file in /data/accounts
 
 _f---------------- _dIMPORTANT _f----------------
 
