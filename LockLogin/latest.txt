@@ -1,11 +1,7 @@
-1.0.9.0
+1.0.9.1
 
-  - Fixed azuriom compatibility in spigot
-  - Fixed azuriom accounts created by LockLogin
-    were not able to access profile page
-
-  - In spigot, player account file has been
-    moved to LockLogin database file in /data/accounts
+  - Fixed some BungeeCord problems
+  - TRIED to fix illegal name checker
 
 _f---------------- _dIMPORTANT _f----------------
 
