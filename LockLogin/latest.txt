@@ -1,6 +1,8 @@
-1.0.9.2
+1.0.9.3
 
   - Fixed some BungeeCord problems
+  - Fixed captcha was not being shown
+    after an update at runtime
   - TRIED to fix illegal name checker
 
 _f---------------- _dIMPORTANT _f----------------
