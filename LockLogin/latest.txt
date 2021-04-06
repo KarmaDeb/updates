@@ -1,10 +1,10 @@
-1.0.9.5
+SNAPSHOT1.0.9.6
 
-  - Fixed illegal name checker
-  - Fixed bungeecord old player account data migration system
-  - Fixed captcha was not being shown after plugin update
-
-  - Improved messages.yml look
+  - BungeeCord old data account migration fixes
+  - Prepared the plugin to separate SQL system into a module
+  - Prepared the plugin to allow non-plugin files load as module
+    in LockLogin
+  - Minor fixes in version detection
 
 _f---------------- _dIMPORTANT _f----------------
 
