@@ -1,3 +1,6 @@
-1.0.0
+1.0.2
 https://karmaconfigs.github.io/updates/LockLogin/modules/sql/LockLoginSQL.jar
-- Module release!
+- Updated module to use
+  new package directory
+- Updated module to use
+  new events

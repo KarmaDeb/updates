@@ -1,8 +1,17 @@
-RC1.0.9.6
+1.0.9.6
 
-  - Plugin is now compatible with non-plugin
-    modules
-  - Moved MySQL system to LockLoginSQL
+  - Plugin support now stand-alone modules.
+    ( Read plugin module wiki for more info )
+  - Fall damage won't be prevented now
+
+  ( LockLoginSQL module will be downloaded if MySQL
+    is enabled, this is part of the new module API )
+
+
+  _eFOR DEVELOPERS
+
+  _bMassive API update, the latest API version is 1.0.9.7
+  _bread javadocs at: _ehttps://karmaconfigs.ml/javadocs/locklogin
 
 _f---------------- _dIMPORTANT _f----------------
 
