@@ -1,11 +1,7 @@
-1.0.9.6
+1.0.9.7
 
-  - Plugin support now stand-alone modules.
-    ( Read plugin module wiki for more info )
-  - Fall damage won't be prevented now
-
-  ( LockLoginSQL module will be downloaded if MySQL
-    is enabled, this is part of the new module API )
+  - Fixed bungeecord startup problems
+    and some more
 
 
   _eFOR DEVELOPERS
