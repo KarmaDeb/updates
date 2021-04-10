@@ -1,8 +1,7 @@
-1.0.9.9
+1.1.0.0
 
-  - Fixed bungeecord startup problems
-    and some more
-  - Fixed BungeeCord detection problems
+  - Fixed bungeecord module viewer
+    was showing an empty GUI
 
 
   _eFOR DEVELOPERS
