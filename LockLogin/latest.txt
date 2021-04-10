@@ -1,7 +1,8 @@
-1.0.9.7
+1.0.9.8
 
   - Fixed bungeecord startup problems
     and some more
+  - Fixed BungeeCord detection problems
 
 
   _eFOR DEVELOPERS
