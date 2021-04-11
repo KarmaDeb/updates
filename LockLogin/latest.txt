@@ -1,13 +1,10 @@
-1.1.0.0
+1.1.0.1
 
-  - Fixed bungeecord module viewer
-    was showing an empty GUI
+  - Added bunch of new events to
+    the module event API
+  - Added command manager for modules
 
-
-  _eFOR DEVELOPERS
-
-  _bMassive API update, the latest API version is 1.0.9.7
-  _bread javadocs at: _ehttps://karmaconfigs.ml/javadocs/locklogin
+  _bModule commands start with dollar symbol!
 
 _f---------------- _dIMPORTANT _f----------------
 

@@ -1,5 +1,7 @@
-1.0.1
+1.0.2
 https://karmaconfigs.github.io/updates/LockLogin/modules/premium/LockLoginPremium.jar
 - Updated to latest API
-- Moved from Gonci repo to
-  KarmaDev repo
+- Made module use LockLogin new command
+  API and LockLogin new event API
+  insted of using LockLogin to register them.
+- /premium is now $premium
