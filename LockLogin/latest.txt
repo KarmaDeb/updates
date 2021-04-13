@@ -1,8 +1,7 @@
-1.1.0.1
+1.1.0.2
 
-  - Added bunch of new events to
-    the module event API
-  - Added command manager for modules
+  - Added help command for modules, this mean
+    this new command uses module prefix
 
   _bModule commands start with dollar symbol!
 
