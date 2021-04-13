@@ -1,9 +1,10 @@
-1.1.0.2
+1.1.0.3
 
-  - Added help command for modules, this mean
-    this new command uses module prefix
+  - Added option in config to select
+    module command prefix
 
-  _bModule commands start with dollar symbol!
+  - Fixed plugin was able to load only
+    one module
 
 _f---------------- _dIMPORTANT _f----------------
 
