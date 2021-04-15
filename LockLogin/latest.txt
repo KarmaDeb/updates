@@ -1,10 +1,8 @@
-1.1.0.3
+1.1.0.4
 
-  - Added option in config to select
-    module command prefix
-
-  - Fixed plugin was able to load only
-    one module
+  - Fixed illegal name checker in BungeeCord
+  - Fixed module prefix command was not working
+    if set to /
 
 _f---------------- _dIMPORTANT _f----------------
 
