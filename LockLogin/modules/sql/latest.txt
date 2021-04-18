@@ -1,3 +1,4 @@
-1.0.5
+1.0.6
 https://karmaconfigs.github.io/updates/LockLogin/modules/sql/LockLoginSQL.jar
-- Added player null check for SQL
+- Fixed problems when
+  loading in 1.1.0.4
