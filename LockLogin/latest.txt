@@ -1,8 +1,7 @@
-1.1.0.4
+1.1.0.5
 
-  - Fixed illegal name checker in BungeeCord
-  - Fixed module prefix command was not working
-    if set to /
+  - Tried to fix some problems with
+    module data folder and files
 
 _f---------------- _dIMPORTANT _f----------------
 

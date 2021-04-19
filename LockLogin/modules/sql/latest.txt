@@ -1,4 +1,3 @@
-1.0.6
+1.0.7
 https://karmaconfigs.github.io/updates/LockLogin/modules/sql/LockLoginSQL.jar
-- Fixed problems when
-  loading in 1.1.0.4
+- Updated to latest LockLogin API
