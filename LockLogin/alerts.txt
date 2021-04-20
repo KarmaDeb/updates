@@ -1,2 +1,2 @@
-_7INFO
-_bRemember to always use the latest version of your plugins
+_cIMPORTANT
+_bPlease downgrade from LockLogin 1.1.0.6 to 1.1.0.5 as 1.1.0.6 contains an important security issue!
