@@ -1,2 +1,2 @@
 _cIMPORTANT
-_bPlease downgrade from LockLogin 1.1.0.6 to 1.1.0.5 as 1.1.0.6 contains an important security issue!
+_bPlease update to 1.1.0.7 if you still in 1.1.0.6, as 1.1.0.6 has an important security issue
