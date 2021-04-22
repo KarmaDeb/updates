@@ -1,6 +1,7 @@
-1.1.0.8
+1.1.0.9
 
-  - Fixed some problems with BungeeCord
+  - Optimized a little bit connection
+    handleling in BungeeCord
 
 _f---------------- _dIMPORTANT _f----------------
 
