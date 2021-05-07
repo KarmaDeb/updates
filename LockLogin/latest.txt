@@ -37,6 +37,8 @@ SNAPSHOT1.11.1
     When you move the mouse over, extra information will
     be shown
   - Moved modules folder to /LockLogin/plugin/modules
+  - Moved /versionChecker to /locklogin version, and removed --
+    from arguments
   - GUI titles and items can be now re-named
   - Spawn can now be set even with the option disabled
 
