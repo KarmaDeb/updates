@@ -1,4 +1,20 @@
-RE:142414
+RE:152516
+
+  _eSnapshot update fixes
+
+  _3- _bFixed /locklogin changelog was showing weird words inside
+    _bbrackets
+
+  _eSnapshot update changes
+
+  _3- _bMoved all /locklogin version commands to /locklogin <version sub arg>
+    _b( locklogin changelog, locklogin check and locklogin version)
+
+
+  _eSnapshot updates additions
+
+  _3- _bAdded metrics
+
 
   _3- _bOptimized the whole plugin by reworking the whole code
   _3- _bImproved lobby and auth lobby servers system
@@ -9,12 +25,12 @@ RE:142414
   _3- _bAdded support for multiple proxy instances
   _3- _bAdded 2fa scratch codes
   _3- _bAdded locklogin.forcefa permission, which will toggle 2fa into an
-      _baccount when it register
+    _baccount when it register
   _3- _bAdded PlaceholderAPI support
   _3- _bAdded RGB-HEX support for messages
   _3- _bAdded null IP check and proxy check
   _3- _bSome plugin message that weren't modificable are now
-      _bmodificable in a plugin_messages.properties file
+    _bmodificable in a plugin_messages.properties file
   _3- _bAdded /alias command to create playerinfo aliases
   _3- _b/playerinfo now support aliases and server tags ( #alias, @server )
   _3- _b/playerinfo now supports multiple users ( /playerinfo user1 user2 user3... )
@@ -30,12 +46,12 @@ RE:142414
   _3- _bMoved some commands to a new /account command
   _3- _bMoved server config on proxy to a proxy.yml file
   _3- _bMoved lang files from /lang to /lang/v2, this is due
-      _bthe massive change to the languages ( new messages,
-      _bchanged some messages, removed messages )
+    _bthe massive change to the languages ( new messages,
+    _bchanged some messages, removed messages )
   _3- _bMoved /locklogin modules GUI into a message like
-      _bModules( 3 ): LockLoginManager, LockLoginMailer.
-      _bWhen you move the mouse over, extra information will
-      _bbe shown
+    _bModules( 3 ): LockLoginManager, LockLoginMailer.
+    _bWhen you move the mouse over, extra information will
+    _bbe shown
   _3- _bMoved modules folder to /LockLogin/plugin/modules
   _3- _bGUI titles and items can be now re-named
   _3- _bSpawn can now be set even with the option disabled
@@ -43,7 +59,7 @@ RE:142414
   _eRemoves
 
   _3- _bRemoved authme / loginsecurity migration, this change is
-      _btemporal, until I implement it into the LockLoginSQL module
+    _btemporal, until I implement it into the LockLoginSQL module
   _3- _bConsole won't be able to run commands now ( this may be changed )
   _3- _bRemoved captcha modes
   _3- _bRemoved plugin API ( only modules are accepted now )
