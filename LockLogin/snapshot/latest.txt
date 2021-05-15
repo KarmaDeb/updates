@@ -1,14 +1,21 @@
-RE:152516
+RE:162618
 
   _eSnapshot update fixes
 
   _3- _bFixed /locklogin changelog was showing weird words inside
     _bbrackets
+  _3- _bFixed persistent account was not working as expected
+  _3- _bFixed captcha was not working as expected
+  _3- _bFixed files were being created as folders
+  _3- _bFixed LockLogin update versions were being downloaded into
+    _bplugins/plugin instead of plugins/LockLogin/plugin
 
   _eSnapshot update changes
 
   _3- _bMoved all /locklogin version commands to /locklogin <version sub arg>
     _b( locklogin changelog, locklogin check and locklogin version)
+  _3- _bYou don't need to have a pin or 2fa enabled in your account to toggle
+    _baccount persistence
 
 
   _eSnapshot updates additions
