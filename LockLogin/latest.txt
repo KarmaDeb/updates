@@ -1,4 +1,10 @@
-RC1.11.3
+RC1.11.4
+
+  _eRC update fixes
+
+  _3- _bFixed take back option was not working
+  _3- _bFixed plugin for servers with spaces on their
+    _blocation folder name
 
   _eSnapshot update fixes
 
