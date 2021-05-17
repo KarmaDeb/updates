@@ -1,7 +1,11 @@
-RE:172720
+RE:182822
 
   _eRC update fixes
 
+  _3- _bFixed LockLogin was not able to fetch BungeeCord mode
+    _bin spigot
+  _3- _bFixed BungeeCord and velocity were not working
+    _bas expected
   _3- _bFixed take back option was not working
   _3- _bFixed plugin for servers with spaces on their
     _blocation folder name
