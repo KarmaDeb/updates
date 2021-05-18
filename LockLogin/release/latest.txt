@@ -1,7 +1,9 @@
-RE:182822
+RE:192924
 
   _eRC update fixes
 
+  _3- _bFixed persistent accounts in bungeecord and velocity
+  _3- _bFixed problems while captcha disabled
   _3- _bFixed LockLogin was not able to fetch BungeeCord mode
     _bin spigot
   _3- _bFixed BungeeCord and velocity were not working
