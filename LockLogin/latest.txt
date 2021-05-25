@@ -1,7 +1,8 @@
-RC1.11.7
+RC1.11.8
 
   _eRC update fixes
 
+  _3- _bFixed player visibility feature
   _3- _bFixed pin was throwing error sometimes
   _3- _bTried to fix a problem with communication between servers
   _3- _bFixed persistent accounts in bungeecord and velocity
