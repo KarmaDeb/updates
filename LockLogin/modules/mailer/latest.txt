@@ -1,4 +1,4 @@
-1.0.7
+1.0.8
 https://karmaconfigs.github.io/updates/LockLogin/modules/mailer/LockLoginMailer.jar
 - Updated to latest API
 - Fixed module was creating LockLoginMailerrecovery
