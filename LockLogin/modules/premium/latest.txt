@@ -1,4 +1,4 @@
-1.0.4
+1.0.5
 https://karmaconfigs.github.io/updates/LockLogin/modules/premium/LockLoginPremium.jar
 - Updated to latest API
 - Fixed premium command
