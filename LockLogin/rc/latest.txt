@@ -1,7 +1,10 @@
-RE:223230
+RE:142513
 
   _eRC update fixes
 
+  _3- _bFixed locklogin reload problems
+  _3- _bUpdated API to add compatibility with LockLoginPremium
+    _bauto-login
   _3- _bFixed bungeecord problems
   _3- _bFixed player visibility feature
   _3- _bFixed pin was throwing error sometimes

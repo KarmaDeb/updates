@@ -1,7 +1,10 @@
-RC1.11.9
+RC1.12.0
 
   _eRC update fixes
 
+  _3- _bFixed locklogin reload problems
+  _3- _bUpdated API to add compatibility with LockLoginPremium
+    _bauto-login
   _3- _bFixed bungeecord problems
   _3- _bFixed player visibility feature
   _3- _bFixed pin was throwing error sometimes
