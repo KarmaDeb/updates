@@ -1,2 +1,2 @@
 _cIMPORTANT
-_bPlease update to 1.1.0.7 if you still in 1.1.0.6, as 1.1.0.6 has an important security issue
+_bExpect a big update in a few weeks :)
