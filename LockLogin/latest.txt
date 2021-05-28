@@ -1,4 +1,8 @@
-RC1.12.0
+RC1.12.1
+
+  _eCandidate to final RC version changes
+
+  _3- _bFixed plugin in BungeeCord and Velocity
 
   _eRC update fixes
 

@@ -1,4 +1,8 @@
-RE:142513
+RE:152615
+
+  _eCandidate to final RC version changes
+
+  _3- _bFixed plugin in BungeeCord and Velocity
 
   _eRC update fixes
 
