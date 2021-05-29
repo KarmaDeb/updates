@@ -2,6 +2,7 @@ RC1.12.2
 
   _eCandidate to final RC version changes
 
+  _3- _bAdded locklogin modules load unload and reload command
   _3- _bFixed plugin was always on snapshot channel
   _3- _bFixed proxy communication issues
   _3- _bFixed plugin was not detecting when pin or 2fa
