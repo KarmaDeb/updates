@@ -1,7 +1,13 @@
-RE:152615
+RE:162717
 
   _eCandidate to final RC version changes
 
+  _3- _bFixed plugin was always on snapshot channel
+  _3- _bFixed proxy communication issues
+  _3- _bFixed plugin was not detecting when pin or 2fa
+    _bwere disabled
+  _3- _bFixed update downloader was always downloading latest
+    _bversion
   _3- _bFixed plugin in BungeeCord and Velocity
 
   _eRC update fixes
