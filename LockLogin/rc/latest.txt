@@ -1,7 +1,14 @@
-RE:162717
+RE:172819
 
   _eCandidate to final RC version changes
 
+  _3- _bFixed modules were not able to be modified after being
+    _bloaded using locklogin modules load
+  _3- _bAdded message pool to bungeecord so it will be more difficulty
+    _bto be kicked for late server register
+  _3- _bFixed some connectivity errors by implementing the plugin message
+    _bpool
+  _3- _bFixed server sender in bungeecord and velocity
   _3- _bAdded locklogin modules load unload and reload command
   _3- _bFixed plugin was always on snapshot channel
   _3- _bFixed proxy communication issues
