@@ -1,7 +1,10 @@
-RC1.12.4
+RC1.12.5
 
   _eCandidate to final RC version changes
 
+  _3- _bMade server pinger ignore errors if the server
+    _bhas players
+  _3- _bFixed server pinger in Velocity
   _3- _bMade LockLogin forget the servers who have proxy key
     _band temp key knoledge if they don't response for 5 seconds
   _3- _bFixed modules were not able to be modified after being
