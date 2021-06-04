@@ -1,7 +1,16 @@
-RC1.12.5
+RC1.12.6
 
   _eCandidate to final RC version changes
 
+  _3- _bUpdated update checker to use new LockLogin web
+    _bAPI
+  _3- _bNew updates will now be also advertised to clients
+    _bwith the applyUpdates permission
+  _3- _bUsers with forcefa command won't be able to disable
+    _b2fa now, and their 2fa will be toggled also when login
+    _bif they didn't have 2fa enabled
+  _3- _bNow you can tell the plugin to not download new jar updates
+    _bby creating a .no_download file in plugins/LockLogin/plugin/update
   _3- _bMade server pinger ignore errors if the server
     _bhas players
   _3- _bFixed server pinger in Velocity
