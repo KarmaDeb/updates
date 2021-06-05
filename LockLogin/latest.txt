@@ -1,7 +1,8 @@
-RC1.12.6
+RC1.12.7
 
   _eCandidate to final RC version changes
 
+  _3- _bFixed /playerinfo and /account alts command in proxies
   _3- _bUpdated update checker to use new LockLogin web
     _bAPI
   _3- _bNew updates will now be also advertised to clients
