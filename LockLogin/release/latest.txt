@@ -1,7 +1,9 @@
-RE:223329
+RE:233431
 
   _eCandidate to final RC version changes
 
+  _3- _bFixed some issues with dependency checksum
+  _3- _bFixed velocity was being parsed as bungee platform
   _3- _bAdded java 16 compatibility
   _3- _bFixed /playerinfo and /account alts command in proxies
   _3- _bUpdated update checker to use new LockLogin web
