@@ -1,7 +1,10 @@
-RE:243533
+RE:253635
 
   _eCandidate to final RC version changes
 
+  _3- _bFixed the plugin in velocity
+  _3- _bFixed important security problem that
+    _binvolded all the player accounts
   _3- _bFixed plugin was not working
   _3- _bReduced a little bit jar size
   _3- _bFixed some issues with dependency checksum
