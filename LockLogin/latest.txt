@@ -1,7 +1,9 @@
-RC1.12.12
+RC1.12.13
 
   _eCandidate to final RC version changes
 
+  _3- _bFixed problems while using the plugin in
+    _bproxy environment
   _3- _bFixed modules command in velocity was not
     _bshowing colors
   _3- _bFixed the plugin in velocity
