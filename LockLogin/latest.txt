@@ -1,7 +1,9 @@
-RC1.12.14
+RC1.12.15
 
   _eCandidate to final RC version changes
 
+  _3- _bFixed problems related with
+    _bObjectNotSerializableException
   _3- _bFixed spam errors while using the plugin
     _bin proxy environment
   _3- _bFixed account alts and playerinfo command
