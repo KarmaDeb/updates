@@ -1,7 +1,11 @@
-RE:273839
+RE:283941
 
   _eCandidate to final RC version changes
 
+  _3- _bFixed spam errors while using the plugin
+    _bin proxy environment
+  _3- _bFixed account alts and playerinfo command
+    _bwhile in proxy environment
   _3- _bFixed problems while using the plugin in
     _bproxy environment
   _3- _bFixed modules command in velocity was not
