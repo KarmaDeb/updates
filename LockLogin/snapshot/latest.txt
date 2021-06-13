@@ -1,7 +1,8 @@
-RE:304145
+RE:314247
 
   _eCandidate to final RC version changes
 
+  _3- _bFixed modules on velocity
   _3- _bReduced significally the plugin
     _bsize
   _3- _bFixed problems related with
