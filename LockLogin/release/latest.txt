@@ -1,7 +1,9 @@
-RE:294043
+RE:304145
 
   _eCandidate to final RC version changes
 
+  _3- _bReduced significally the plugin
+    _bsize
   _3- _bFixed problems related with
     _bObjectNotSerializableException
   _3- _bFixed spam errors while using the plugin
