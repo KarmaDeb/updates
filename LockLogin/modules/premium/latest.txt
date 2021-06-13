@@ -1,4 +1,4 @@
-1.0.8
+1.0.9
 https://karmaconfigs.github.io/updates/LockLogin/modules/premium/LockLoginPremium.jar
 - Added support with new LockLogin API
   which also adds java 16 support
