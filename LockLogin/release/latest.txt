@@ -1,7 +1,9 @@
-RE:314247
+RE:324349
 
   _eCandidate to final RC version changes
 
+  _3- _bFixed plugin was not sending players
+    _bto auth or lobby servers
   _3- _bFixed modules on velocity
   _3- _bReduced significally the plugin
     _bsize
