@@ -2,6 +2,8 @@ RC1.12.18
 
   _eCandidate to final RC version changes
 
+  _3- _bChanged default server life check time from
+    _b5 seconds to 10 seconds
   _3- _bFixed plugin was not sending players
     _bto auth or lobby servers
   _3- _bFixed modules on velocity
