@@ -1,7 +1,10 @@
-RC1.12.18
+RC1.12.19
 
   _eCandidate to final RC version changes
 
+  _3- _bRemoved KarmaAPI as download-able dependency
+    _bas it's now included in the plugin classpath
+  _3- _bIP checker and proxy checker can now be disabled
   _3- _bChanged default server life check time from
     _b5 seconds to 10 seconds
   _3- _bFixed plugin was not sending players
