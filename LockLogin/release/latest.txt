@@ -1,4 +1,4 @@
-RU-34/45/53.33
+RU:344553
 
   _eCandidate to final RC version changes
 
