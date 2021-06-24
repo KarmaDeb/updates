@@ -1,7 +1,15 @@
-RE:334451
+RU-34/45/53.33
 
   _eCandidate to final RC version changes
 
+  _3- _bFixed community languages were not working
+  _3- _bFixed the plugin alt detection was not working, generating
+    _ba different data file for a same IP address
+  _3- _bMade the plugin use KarmaAPI updater, which is much
+    _bbetter and has performance improvements
+  _3- _bThe plugin now shows version instead of version id when
+    _brunning version command
+  _3- _bMade several changes to how the plugin version id works
   _3- _bRemoved KarmaAPI as download-able dependency
     _bas it's now included in the plugin classpath
   _3- _bIP checker and proxy checker can now be disabled
