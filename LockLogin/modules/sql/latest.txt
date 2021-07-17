@@ -1,3 +1,5 @@
-1.1.1
+1.1.2
 https://karmaconfigs.github.io/updates/LockLogin/modules/sql/LockLoginSQL.jar
 - Updated to latest LockLogin API
+- Added back migration support
+- Added DynamicBungeeAuth migration support
