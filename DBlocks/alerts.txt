@@ -1,2 +1,0 @@
-_7INFO
-_cThe plugin won't have any translation

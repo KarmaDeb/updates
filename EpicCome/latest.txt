@@ -1,3 +1,0 @@
-1.0.2
-https://www.spigotmc.org/resources/epiccome-remastered.83691/
-- Updated to latest LockLogin API
