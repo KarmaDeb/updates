@@ -1,3 +1,2 @@
-1.1.1
-https://karmaconfigs.github.io/updates/LockLogin/modules/premium/LockLoginPremium.jar
-- Updated to latest LockLogin API
+1.1.2
+https://locklogin.eu/modules/premium/LockLoginPremium.jar
