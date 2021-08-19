@@ -1,14 +1,12 @@
-VERSION: RU-49/60/83.48
+VERSION: RU-50/61/85.49
 UPDATE: http://karmaconfigs.github.io/updates/LockLogin/version/candidate/LockLogin.jar
 [LIST=CHANGELOG]
+&3Most notable changes in &a1.12.36
+
+&bFixed more velocity problems
+
 &3Most notable changes in &a1.12.35
 
 &bFixed some bugs when players connected while in velocity
 &bLockLogin channel uses now a token that expires each 6 months
-
-&3Most notable changes in &c1.12.34
-
-&bRe implemented chinese simplified language
-&bFixed login/register timer keeps going on for disconnected users
-&bFixed big errors when using velocity software
 [/LIST=CHANGELOG]
