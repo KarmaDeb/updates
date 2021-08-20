@@ -1,7 +1,12 @@
-VERSION: RU-50/61/85.49
+VERSION: PU-51/62/87.50
 UPDATE: http://karmaconfigs.github.io/updates/LockLogin/version/release/LockLogin.jar
 [LIST=CHANGELOG]
-&3Most notable changes in &a1.12.36
+&3Most notable changes in &a1.12.37
+
+&bImproved AuthMe password detection when migrating from it
+&bFixed some problems when using with BungeeCord/Velocity
+
+&3Most notable changes in &c1.12.36
 
 &bFixed more velocity problems
 

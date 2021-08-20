@@ -1,0 +1,21 @@
+Apache_Commons_Codec_adler: 3916456401
+Java_Native_Access_adler: 3948423424
+Google_Authenticator_adler: 293225421
+Log4j_adler: 2534744057
+Log4j_Web_adler: 2561039188
+Java_Assist_adler: 1567615264
+Reflections_adler: 1285286487
+Google_Guava_adler: 4241935111
+Google_Gson_adler: 2593554311
+LockLoginManager_adler: 3856380385
+
+Apache_Commons_Codec_crc: 2418094782
+Java_Native_Access_crc: 3153204980
+Google_Authenticator_crc: 868364232
+Log4j_crc: 2003915664
+Log4j_Web_crc: 1178905147
+Java_Assist_crc: 3412588305
+Reflections_crc: 1731866433
+Google_Guava_crc: 4146188870
+Google_Gson_crc: 2192529993
+LockLoginManager_crc: 2639543498
