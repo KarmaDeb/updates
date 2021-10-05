@@ -1,6 +1,2 @@
-2.2.4
-- Fixed problems when forcing a birthday
-  celebration
-- Updated dependencies
-- Errors won't appear in console, instead they
-  will be in plugin logs folder
+2.2.6
+- Fixed nag author message
