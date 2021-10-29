@@ -1,2 +1,2 @@
-1.0.3
-https://locklogin.eu/modules/ratelimiter/RateLimiter.jar
+1.0.6
+https://locklogin.eu/modules/

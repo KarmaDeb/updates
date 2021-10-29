@@ -1,0 +1,23 @@
+APIU-21/33/26.20
+https://locklogin.eu/version/release/LockLogin.jar
+&3Most notable changes in &a1.13.6
+
+ &bMinimal API changes
+ 
+ &bNote: &cLockLoginManager module is now optimized for 1.13.6
+  &cit should work in 1.13.1 and higher ( under 1.13.6 ) but not as well as
+  &cin 1.13.6.  Remember, LockLoginManager allows you to see the registered
+  &ccommands using &a$helpme&c command and update the plugin at runtime. 
+
+&3Most notable changes in &c1.13.5
+ 
+ &bFixed an optimization issue when removing an account
+  &bon servers with big amount of players
+ &bRemoved AntiBot and MaxIp messages from plugin, they are
+  &bnow RateLimiter module property ( update RateLimiter module )
+
+&3Most notable changes in &c1.13.4
+ 
+ &bFixed plugin migration from legacy LockLogin
+ &bMoved AntiBot feature and other configuration
+  &boption to LockLoginRateLimiter module

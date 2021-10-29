@@ -1,0 +1,2 @@
+1.0.7
+https://locklogin.eu/modules/ratelimiter/v2/RateLimiter.jar
