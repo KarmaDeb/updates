@@ -1,19 +1,16 @@
-APIU-22/34/28.21
-https://locklogin.eu/version/release/LockLogin.jar
-&3Most notable changes in &a1.13.7
+APIU-24/36/32.23
+https://karmadev.es/locklogin/version/release/LockLogin.jar
+&3Most notable changes in &a1.13.9
 
- &bFixed plugin version checker
- &bFixed plugin checksum checker
- &bFixed plugin donator and patron retriever
- &bFixed nobody was able to join while in online mode
- &bFixed plugin was not runing some commands
- &bFixed plugin was overwriting other modules files
+ &bUpdated API which means modules need to be updated
+  &bas well
+ &bFixed errors when removing an account
+ &bFixed version problems
+ &bLockLogin now depends on KarmaAPI plugin, more info at
+ &ehttps://www.spigotmc.org/resources/gsa-locklogin.75156/update?update=436068
+ &bLockLogin updated their dependencies to be more secure
 
-&3Most notable changes in &c1.13.7
-
- &bMinimal API changes
+&3Most notable changes in &a1.13.8
  
- &bNote: &cLockLoginManager module is now optimized for 1.13.6
-  &cit should work in 1.13.1 and higher ( under 1.13.6 ) but not as well as
-  &cin 1.13.6.  Remember, LockLoginManager allows you to see the registered
-  &ccommands using &a$helpme&c command and update the plugin at runtime. 
+ &bFixed plugin was not able to run module commands
+  &bon console and legacy spigot
