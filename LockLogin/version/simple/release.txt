@@ -1,6 +1,16 @@
-APIU-27/39/38.26
+APIU-28/40/40.27
 https://karmaconfigs.github.io/updates/LockLogin/version/release/LockLogin.jar
-&3Most notable changes in &a1.13.12
+&3Most notable changes in &a1.13.13
+
+ &bRemoved non longer needed plugin dependencies
+ &bFixed plugin was missing ( sometimes ) a dependency
+ &bFixed the plugin was not correctly detecting if the server is online mode
+ &bFixed the plugin was ignoring if the connection was online mode when generating the
+  &bUUID check
+ &bFixed the plugin was only using one host to retrieve updates, instead of also
+  &busing fallback servers
+
+&3Most notable changes in &c1.13.12
 
  &bFixed plugin was only using one host to retrieve checksum, instead of also
   &busing fallback servers
