@@ -1,7 +1,12 @@
-VERSION: APIU-28/40/40.27
+VERSION: APIU-29/41/42.28
 UPDATE: https://karmaconfigs.github.io/updates/LockLogin/version/snapshot/LockLogin.jar
 [LIST=CHANGELOG]
-&3Most notable changes in &a1.13.13
+&3Most notable changes in &a1.13.14
+ 
+ &bAdded a UserPostValidationEvent to the API, this event is fired after the plugin
+  &bvalidates an user while in BungeeCord mode
+
+&3Most notable changes in &c1.13.13
 
  &bRemoved non longer needed plugin dependencies
  &bFixed plugin was missing ( sometimes ) a dependency
@@ -15,14 +20,4 @@ UPDATE: https://karmaconfigs.github.io/updates/LockLogin/version/snapshot/LockLo
 
  &bFixed plugin was only using one host to retrieve checksum, instead of also
   &busing fallback servers
-
-&3Most notable changes in &c1.13.11
-
- &bFixed player account files were being parsed as invalid
- &bLockLogin will now fetch client names to https://karmadev.es/api?nick=<name>
-  &band https://karmarepo.000webhostapp.com/api/?nick=<nickname> to enable
-  &bfetch on the same API url (<url>/api?fetch=<name>|<uuid>). This API is public
-  &band may be used by everyone!
- &bFixed more Log4j dependency security issues
- &bFixed the plugin was causing server to not stop correctly ( needs KarmaAPI plugin update )
 [/LIST=CHANGELOG]
