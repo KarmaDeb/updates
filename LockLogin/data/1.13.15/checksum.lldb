@@ -2,8 +2,8 @@ Apache_Commons_IO_adler: 1673920066
 Apache_Commons_Codec_adler: 3916456401
 Java_Native_Access_adler: 3948423424
 Google_Authenticator_adler: 293225421
-Log4j_adler: 3506382619
-Log4j_Web_adler: 3719068290
+Log4j_adler: 217741531
+Log4j_Web_adler: 993548242
 Java_Assist_adler: 3701714671
 Reflections_adler: 1285286487
 Google_Guava_adler: 4241935111
@@ -14,8 +14,8 @@ Apache_Commons_IO_crc: 4194532834
 Apache_Commons_Codec_crc: 2418094782
 Java_Native_Access_crc: 3153204980
 Google_Authenticator_crc: 868364232
-Log4j_crc: 2818621067
-Log4j_Web_crc: 2437452741
+Log4j_crc: 556285814
+Log4j_Web_crc: 308611953
 Java_Assist_crc: 3282936896
 Reflections_crc: 1731866433
 Google_Guava_crc: 4146188870

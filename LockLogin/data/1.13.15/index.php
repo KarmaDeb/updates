@@ -13,8 +13,8 @@ if ($type == 'adler') {
 	echo "	\"Apache Commons Codec\": 3916456401,\n";
 	echo "	\"Java Native Access\": 3948423424,\n";
 	echo "	\"Google Authenticator\": 293225421,\n";
-	echo "	\"Log4j\": 3506382619,\n";
-	echo "	\"Log4j Web\": 3719068290,\n";
+	echo "	\"Log4j\": 217741531,\n";
+	echo "	\"Log4j Web\": 993548242,\n";
 	echo "	\"Java Assist\": 3701714671,\n";
 	echo "	\"Reflections\": 1285286487,\n";
 	echo "	\"Google Guava\": 4241935111,\n";
@@ -27,8 +27,8 @@ if ($type == 'adler') {
 	echo "	\"Apache Commons Codec\": 2418094782,\n";
 	echo "	\"Java Native Access\": 3153204980,\n";
 	echo "	\"Google Authenticator\": 868364232,\n";
-	echo "	\"Log4j\": 2818621067,\n";
-	echo "	\"Log4j Web\": 2437452741,\n";
+	echo "	\"Log4j\": 556285814,\n";
+	echo "	\"Log4j Web\": 308611953,\n";
 	echo "	\"Java Assist\": 3282936896,\n";
 	echo "	\"Reflections\": 1731866433,\n";
 	echo "	\"Google Guava\": 4146188870,\n";
