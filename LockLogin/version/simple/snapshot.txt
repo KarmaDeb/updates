@@ -1,21 +1,11 @@
-APIU-29/41/42.28
+APIU-30/42/44.29
 https://karmaconfigs.github.io/updates/LockLogin/version/snapshot/LockLogin.jar
+&3Most notable changes in &a1.13.15
+
+ &bFixed a problem related with LockLogin BungeeCord and its generated token
+  &bto ensure a secure communication
+
 &3Most notable changes in &a1.13.14
  
  &bAdded a UserPostValidationEvent to the API, this event is fired after the plugin
   &bvalidates an user while in BungeeCord mode
-
-&3Most notable changes in &c1.13.13
-
- &bRemoved non longer needed plugin dependencies
- &bFixed plugin was missing ( sometimes ) a dependency
- &bFixed the plugin was not correctly detecting if the server is online mode
- &bFixed the plugin was ignoring if the connection was online mode when generating the
-  &bUUID check
- &bFixed the plugin was only using one host to retrieve updates, instead of also
-  &busing fallback servers
-
-&3Most notable changes in &c1.13.12
-
- &bFixed plugin was only using one host to retrieve checksum, instead of also
-  &busing fallback servers
