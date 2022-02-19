@@ -1,7 +1,13 @@
-VERSION: APIU-30/42/44.29
+VERSION: APIU-31/43/46.30
 UPDATE: https://karmaconfigs.github.io/updates/LockLogin/version/snapshot/LockLogin.jar
 [LIST=CHANGELOG]
-&3Most notable changes in &a1.13.15
+&3Most notable changes in &a1.13.16
+ &bFixed a problem related with LockLoginManager module
+ &bLockLogin is now closer to use its own communicaton channel which
+  &bshould help to improve how the plugin comunicates
+  
+
+&3Most notable changes in &c1.13.15
 
  &bFixed a problem related with LockLogin BungeeCord and its generated token
   &bto ensure a secure communication
