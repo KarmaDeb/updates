@@ -1,2 +1,2 @@
 1.1.7
-https://locklogin.eu/modules/premium/v2/LockLoginPremium.jar
+https://karmaconfigs.github.io/updates/LockLogin/modules/premium/v2/LockLoginPremium.jar

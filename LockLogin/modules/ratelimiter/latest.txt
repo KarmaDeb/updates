@@ -1,2 +1,2 @@
 1.0.8
-https://locklogin.eu/modules/ratelimiter/v3/RateLimiter.jar
+https://karmaconfigs.github.io/updates/LockLogin/modules/ratelimiter/v3/RateLimiter.jar

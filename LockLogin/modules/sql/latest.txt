@@ -1,2 +1,2 @@
-1.2.1
-https://locklogin.eu/modules/sql/v5/LockLoginSQL.jar
+1.2.3
+https://karmaconfigs.github.io/updates/LockLogin/modules/sql/v5/LockLoginSQL.jar
