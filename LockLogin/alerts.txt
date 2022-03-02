@@ -1,2 +1,2 @@
 _eINFO
-_7LockLogin may disappear soon, support will still given until its successor is done
+_7Support won't be given for russian resident by LockLogin
