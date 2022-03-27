@@ -1,10 +1,20 @@
-VERSION: APIU-32/44/48.31
+VERSION: APIU-33/45/50.32
 UPDATE: https://karmaconfigs.github.io/updates/LockLogin/version/release/LockLogin.jar
 [LIST=CHANGELOG]
-&3Most notable changes in &a1.13.17
+&3Most notable changes in &a1.13.18
+ &bFixed a problem related with some commands were not being
+  &brun
+ &bFixed plugin message properties were not being properly updated
+ &bFixed the player would receive the pin input item after verifying his pin
+ &bFixed the plugin was trying to use an invalid URL for QR code
+ &bAdded again the locklogin pin sounds
+ &bAdded a sound when you remove input from the pin inventory
+
+&3Most notable changes in &c1.13.17
  &bFixed a problem related with LockLoginPremium module
   &bwas causing a UUID validation error when keep offline UUID
   &bwas enabled
+ 
  &bAdded more LockLogin update servers
 
 &3Most notable changes in &c1.13.16
