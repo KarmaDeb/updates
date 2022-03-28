@@ -2,8 +2,7 @@ VERSION: APIU-33/45/50.32
 UPDATE: https://karmaconfigs.github.io/updates/LockLogin/version/release/LockLogin.jar
 [LIST=CHANGELOG]
 &3Most notable changes in &a1.13.18
- &bFixed a problem related with some commands were not being
-  &brun
+ &bFixed a problem related with some commands were not being run
  &bFixed plugin message properties were not being properly updated
  &bFixed the player would receive the pin input item after verifying his pin
  &bFixed the plugin was trying to use an invalid URL for QR code
