@@ -1,9 +1,17 @@
-APIU-34/46/52.33
+APIU-35/47/54.34
 https://karmaconfigs.github.io/updates/LockLogin/version/candidate/LockLogin.jar
-&3Most notable changes in &a1.13.19
+&3Most notable changes in &a1.13.20
+ &bFixed a problem with player accounts in where player stored name
+  &bwould be not the correct one due to Online KarmaAPI rate limits
+ &bFixed a bad message problem with playerinfo command
+ &bFixed some messages would be 'modulePlayer' instead of 'player'
+ &bFormating of {player}, {ServerName} and PlaceholderAPI placeholders now
+  &bwork also on titles and captcha actionbar
+
+&3Most notable changes in &c1.13.19
  &bFixed a problem with Velocity and the LockLogin API
 
-&3Most notable changes in &a1.13.18
+&3Most notable changes in &c1.13.18
  &bFixed a problem related with some commands were not being
   &brun
  &bFixed plugin message properties were not being properly updated
@@ -11,8 +19,3 @@ https://karmaconfigs.github.io/updates/LockLogin/version/candidate/LockLogin.jar
  &bFixed the plugin was trying to use an invalid URL for QR code
  &bAdded again the locklogin pin sounds
  &bAdded a sound when you remove input from the pin inventory
-
-&3Most notable changes in &c1.13.17
- &bFixed a problem related with LockLoginPremium module
-  &bwas causing a UUID validation error when keep offline UUID
-  &bwas enabled
