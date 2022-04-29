@@ -1,0 +1,15 @@
+Google_Authenticator_adler: 293225421
+Google_Gson_adler: 2593554311
+Google_Guava_adler: 4241935111
+Log4j_adler: 217741531
+Log4j_Web_adler: 993548242
+Remote_Messaging_adler: 2437852239
+LockLoginManager_adler: 4082818948
+
+Google_Authenticator_crc: 868364232
+Google_Gson_crc: 2192529993
+Google_Guava_crc: 4146188870
+Log4j_crc: 556285814
+Log4j_Web_crc: 308611953
+Remote_Messaging_crc: 1859780331
+LockLoginManager_crc: 2432528580
