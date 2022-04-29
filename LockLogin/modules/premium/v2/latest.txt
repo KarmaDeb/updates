@@ -1,2 +1,2 @@
-1.1.8
+1.1.9
 https://karmaconfigs.github.io/updates/LockLogin/modules/premium/v2/LockLoginPremium.jar
