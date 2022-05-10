@@ -1,0 +1,127 @@
+{
+	"startup": [
+		"&d------------------------------",
+		"",
+		"&aHey! Thanks for using LockLogin.",
+		"&aI'm really happy you choose us to",
+		"&aprotect your server. This plugin",
+		"&ahas lots of hours expent on it and",
+		"&aeverything has been made by a single",
+		"&adeveloper.",
+		"",
+		"&aIf you feel to, you could invite me to",
+		"&acoffee and keep me up for still working in",
+		"&athis plugin. It's ok if you don't want to",
+		"&abut it would be great if you do",
+		"",
+		"&bhttps://www.buymeacoffee.com/karmadev",
+		"&bhttps://www.patreon.com/karmaconfigs",
+		"",
+		"&d------------------------------"
+	],
+	"notification": {
+		"level": 0,
+		"message": "&aAll systems are working!",
+		"settings": {
+			"config": false,
+			"proxy": false
+		},
+		"forcedHash": {
+			"dev_": {
+				"config": false,
+				"proxy": false,
+				"level": 10,
+				"message": "&aIF YOU SEE THIS MESSAGE YOU ARE IN A DEV VERSION!"
+			},
+			"beta_": {
+				"config": false,
+				"proxy": false,
+				"level": 10,
+				"message": "&aIF YOU SEE THIS MESSAGE YOU ARE IN A BETA VERSION!"
+			}
+		}
+	},
+
+	"server": {
+		"BungeeCord": null,
+		"ServerName": null,
+		"Register": {
+			"Boss": null,
+			"Blind": null,
+			"Nausea": null,
+			"TimeOut": null,
+			"Max": null
+		},
+		"Login": {
+			"Boss": null,
+			"Blind": null,
+			"Nausea": null,
+			"TimeOut": null,
+			"MaxTries": null
+		},
+		"Sessions": {
+			"Enabled": null,
+			"Time": null
+		},
+		"IpHealthCheck": null,
+		"UUIDValidator": null,
+		"HideNonLogged": null,
+		"MessagesInterval": {
+			"Registration": null,
+			"Logging": null
+		},
+		"Captcha": {
+			"Enabled": null,
+			"Difficulty": {
+				"Length": null,
+				"Letters": null
+			},
+			"Strikethrough": {
+				"Enabled": null,
+				"Random": null
+			}
+		},
+		"Encryption": {
+			"Passwords": null,
+			"Pins": null,
+			"Encrypt": null
+		},
+		"BlockUnsafePasswords": null,
+		"BruteForce": {
+			"Tries": null,
+			"BlockTime": null
+		},
+		"AllowSameIp": null,
+		"Pin": null,
+		"2FA": null,
+		"Updater": {
+			"Channel": null,
+			"Check": null,
+			"CheckTime": null
+		},
+		"Spawn": {
+			"Manage": null,
+			"TakeBack": null,
+			"SpawnDistance": null
+		},
+		"ClearChat": null,
+		"CheckNames": null,
+		"EnforceNameCheck": null,
+		"NameCheckProtocol": null,
+		"Lang": null,
+		"ModulePrefix": null
+	},
+
+	"proxy": {
+		"Options": {
+			"MultiBungee": null,
+			"SendToServers": null
+		},
+		"ProxyKey": null,
+		"ID": null,
+		"Channel": {
+			"Address": null,
+			"Port": null
+		}
+	}
+}
