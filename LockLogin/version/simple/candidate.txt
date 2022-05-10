@@ -1,5 +1,11 @@
-APIU-36/48/56.35
+B-37/49/58.36
 https://karmaconfigs.github.io/updates/LockLogin/version/candidate/LockLogin.jar
+&3Most notable changes in &a1.13.22 - BETA #1
+ &bFixed HideNonLogged option
+ &bImproved plugin alert system, now named notification system
+ &bThe plugin now generates a server hash, util for future updates
+  &bwith new features
+
 &3Most notable changes in &a1.13.21
  &bFixed ping unset command was not working
  &bFixed the plugin was not processing players after
