@@ -1,21 +1,11 @@
-B-37/49/58.36
+B-38/50/60.37
 https://karmaconfigs.github.io/updates/LockLogin/version/snapshot/LockLogin.jar
+&3Most notable changes in &a1.13.22 - BETA #2
+ &bFixed BungeeCord was not compatible with newline placeholder
+ &bImproved plugin updater system
+
 &3Most notable changes in &a1.13.22 - BETA #1
  &bFixed HideNonLogged option
  &bImproved plugin alert system, now named notification system
  &bThe plugin now generates a server hash, util for future updates
   &bwith new features
-
-&3Most notable changes in &a1.13.21
- &bFixed ping unset command was not working
- &bFixed the plugin was not processing players after
-  &bUUIDs were changed during connection
- &bInternal plugin interactions improved
-
-&3Most notable changes in &c1.13.20
- &bFixed a problem with player accounts in where player stored name
-  &bwould be not the correct one due to Online KarmaAPI rate limits
- &bFixed a bad message problem with playerinfo command
- &bFixed some messages would be 'modulePlayer' instead of 'player'
- &bFormating of {player}, {ServerName} and PlaceholderAPI placeholders now
-  &bwork also on titles and captcha actionbar
