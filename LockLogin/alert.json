@@ -34,7 +34,7 @@
 				"message": "While in development mode, your updater will be forced to fetch snapshot versions"
 			},
 			"beta_": {
-				"config": true,
+				"config": false,
 				"proxy": false,
 				"level": 5,
 				"message": "While in beta mode, your updater will be forced to fetch beta versions"
@@ -95,7 +95,7 @@
 		"Pin": null,
 		"2FA": null,
 		"Updater": {
-			"Channel": "RC",
+			"Channel": null,
 			"Check": null,
 			"CheckTime": null
 		},
