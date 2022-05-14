@@ -1,6 +1,11 @@
-VERSION: B-38/50/60.37
+VERSION: WU-37/49/58.36
 UPDATE: https://karmaconfigs.github.io/updates/LockLogin/version/snapshot/LockLogin.jar
 [LIST=CHANGELOG]
+&3Most notable changes in &a1.13.22
+ &bImplemented all the BETA changes
+ &bFixed the plugin was not parsing correctly line breaks
+ &bStarted the implementation of the LockLogin web panel into the plugin
+
 &3Most notable changes in &a1.13.22 - BETA #2
  &bFixed BungeeCord was not compatible with newline placeholder
  &bImproved plugin updater system

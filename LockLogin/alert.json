@@ -30,14 +30,14 @@
 			"dev_": {
 				"config": false,
 				"proxy": false,
-				"level": 10,
-				"message": "&aIF YOU SEE THIS MESSAGE YOU ARE IN A DEV VERSION!"
+				"level": 5,
+				"message": "While in development mode, your updater will be forced to fetch snapshot versions"
 			},
 			"beta_": {
-				"config": false,
+				"config": true,
 				"proxy": false,
-				"level": 10,
-				"message": "&aIF YOU SEE THIS MESSAGE YOU ARE IN A BETA VERSION!"
+				"level": 5,
+				"message": "While in beta mode, your updater will be forced to fetch beta versions"
 			}
 		}
 	},
@@ -95,7 +95,7 @@
 		"Pin": null,
 		"2FA": null,
 		"Updater": {
-			"Channel": null,
+			"Channel": "RC",
 			"Check": null,
 			"CheckTime": null
 		},
