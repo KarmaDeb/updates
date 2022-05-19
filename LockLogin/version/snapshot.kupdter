@@ -1,6 +1,9 @@
-VERSION: WU-37/49/58.36
+VERSION: WU-38/50/60.37
 UPDATE: https://karmaconfigs.github.io/updates/LockLogin/version/snapshot/LockLogin.jar
 [LIST=CHANGELOG]
+&3Most notable changes in &a1.13.23
+ &bFixed plugin was not downloading dependencies
+
 &3Most notable changes in &a1.13.22
  &bImplemented all the BETA changes
  &bFixed the plugin was not parsing correctly line breaks
