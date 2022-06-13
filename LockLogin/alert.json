@@ -20,8 +20,8 @@
 		"&d------------------------------"
 	],
 	"notification": {
-		"level": 0,
-		"message": "&aAll systems are working!",
+		"level": 6,
+		"message": "&cMain host will be down for minimum 30 minutes due maintenance. Backup hosts will be available ( backup.karmaconfigs.ml | backup.karmadev.es | backup.karmarepo.ml )!",
 		"settings": {
 			"config": false,
 			"proxy": false
