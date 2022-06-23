@@ -1,5 +1,12 @@
-WU-38/50/60.37
+WU-39/51/62.38
 https://karmaconfigs.github.io/updates/LockLogin/version/candidate/LockLogin.jar
+&3Most notable changes in &a1.13.24
+ &bThis version implements a virtual id system to protect
+  &byour users against database leaks.
+ &bThis version changes the plugin file system from KarmaFile
+  &bwhich was very simple a chaotic, to KarmaMain with is more
+  &bhuman friendly and less chaotic
+
 &3Most notable changes in &a1.13.23
  &bFixed plugin was not downloading dependencies
 
@@ -11,9 +18,3 @@ https://karmaconfigs.github.io/updates/LockLogin/version/candidate/LockLogin.jar
 &3Most notable changes in &a1.13.22 - BETA #2
  &bFixed BungeeCord was not compatible with newline placeholder
  &bImproved plugin updater system
-
-&3Most notable changes in &a1.13.22 - BETA #1
- &bFixed HideNonLogged option
- &bImproved plugin alert system, now named notification system
- &bThe plugin now generates a server hash, util for future updates
-  &bwith new features
