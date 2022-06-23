@@ -45,6 +45,7 @@
 	"server": {
 		"BungeeCord": null,
 		"ServerName": null,
+		"BungeeMotd": null,
 		"Register": {
 			"Boss": null,
 			"Blind": null,
@@ -84,7 +85,8 @@
 		"Encryption": {
 			"Passwords": null,
 			"Pins": null,
-			"Encrypt": null
+			"Encrypt": null,
+			"VirtualID": null
 		},
 		"BlockUnsafePasswords": null,
 		"BruteForce": {
