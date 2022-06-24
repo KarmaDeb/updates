@@ -20,8 +20,8 @@
 		"&d------------------------------"
 	],
 	"notification": {
-		"level": 0,
-		"message": "&aAll systems are operative!",
+		"level": 10,
+		"message": "&aLockLogin 1.13.25 has been released. After updating, make sure to follow the steps specified in the update entry: https://www.spigotmc.org/resources/rd-locklogin.75156/update?update=461704!",
 		"settings": {
 			"config": false,
 			"proxy": false
