@@ -1,22 +1,15 @@
-VERSION: WU-39/51/62.38
+VERSION: WU-40/52/64.39
 UPDATE: https://karmaconfigs.github.io/updates/LockLogin/version/candidate/LockLogin.jar
 [LIST=CHANGELOG]
+&3Most notable changes in &a1.13.25
+ &bFixed players were not able to join
+ &bFixed new servers were just not starting up
+ &bFixed LockLogin was not displaying VirtualID alerts
+
 &3Most notable changes in &a1.13.24
  &bThis version implements a virtual id system to protect
   &byour users against database leaks.
  &bThis version changes the plugin file system from KarmaFile
   &bwhich was very simple a chaotic, to KarmaMain with is more
   &bhuman friendly and less chaotic
-
-&3Most notable changes in &a1.13.23
- &bFixed plugin was not downloading dependencies
-
-&3Most notable changes in &a1.13.22
- &bImplemented all the BETA changes
- &bFixed the plugin was not parsing correctly line breaks
- &bStarted the implementation of the LockLogin web panel into the plugin
-
-&3Most notable changes in &a1.13.22 - BETA #2
- &bFixed BungeeCord was not compatible with newline placeholder
- &bImproved plugin updater system
 [/LIST=CHANGELOG]
