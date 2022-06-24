@@ -15,7 +15,7 @@ if ($type == 'adler') {
 	echo "	\"Log4j\": 217741531,\n";
 	echo "	\"Log4j Web\": 993548242,\n";
 	echo "	\"Remote Messaging\": 3411176868,\n";
-	echo "	\"LockLoginManager\": 443016827\n";
+	echo "	\"LockLoginManager\": 2731292759\n";
 	echo "\n}";
 } else {
 	echo "{\n";
@@ -25,7 +25,7 @@ if ($type == 'adler') {
 	echo "	\"Log4j\": 556285814,\n";
 	echo "	\"Log4j Web\": 308611953,\n";
 	echo "	\"Remote Messaging\": 4022847772,\n";
-	echo "	\"LockLoginManager\": 3521257255\n";
+	echo "	\"LockLoginManager\": 3943627850\n";
 	echo "\n}";
 }
 ?>
