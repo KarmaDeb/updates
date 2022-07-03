@@ -1,20 +1,10 @@
-VERSION: WU-42/54/68.41
+VERSION: WU-43/55/70.42
 UPDATE: https://karmaconfigs.github.io/updates/LockLogin/version/candidate/LockLogin.jar
 [LIST=CHANGELOG]
+&3Most notable changes in &a1.13.28
+ &bChanged plugin permission system completely
+
 &3Most notable changes in &a1.13.27
  &bFixed plugin was not loading correctly modules
  &bFixed plugin was not correctly storing files data ( REQUIRES KARMAAPI PLATFORM UPDATE )
-
-&3Most notable changes in &c1.13.26
- &bFixed plugin was not able to comunicate in BungeeCord
-  &bmode
- &bFixed LockLogin module loading and unloading commands
-  &b( /locklogin modules load )
-  &b( /locklogin modules unload )
-  &b( /locklogin modules reload )
-
-&3Most notable changes in &c1.13.25
- &bFixed players were not able to join
- &bFixed new servers were just not starting up
- &bFixed LockLogin was not displaying VirtualID alerts
 [/LIST=CHANGELOG]
