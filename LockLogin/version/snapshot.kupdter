@@ -1,6 +1,9 @@
-VERSION: WU-43/55/70.42
+VERSION: WU-44/56/72.43
 UPDATE: https://karmaconfigs.github.io/updates/LockLogin/version/snapshot/LockLogin.jar
 [LIST=CHANGELOG]
+&3Most notable changes in &a1.13.29
+ &bFixed plugin was not triggering UserPostJoinEvent in spigot
+
 &3Most notable changes in &a1.13.28
  &bChanged plugin permission system completely
 
