@@ -86,7 +86,7 @@
 			"Passwords": null,
 			"Pins": null,
 			"Encrypt": null,
-			"VirtualID": null
+			"VirtualID": false
 		},
 		"BlockUnsafePasswords": null,
 		"BruteForce": {
