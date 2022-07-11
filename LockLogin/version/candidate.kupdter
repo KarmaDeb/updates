@@ -1,6 +1,10 @@
-VERSION: WU-44/56/72.43
+VERSION: WU-45/57/74.44
 UPDATE: https://karmaconfigs.github.io/updates/LockLogin/version/candidate/LockLogin.jar
 [LIST=CHANGELOG]
+&3Most notable changes in &a1.13.30
+ &bFixed virtual id
+ &bAdded the possiblity to translate PIN inventory
+
 &3Most notable changes in &a1.13.29
  &bFixed plugin was not triggering UserPostJoinEvent in spigot
 
