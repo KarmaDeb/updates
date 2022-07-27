@@ -1,2 +1,2 @@
-1.2.4
+1.2.5
 https://locklogin.eu/modules/sql/v5/LockLoginSQL.jar
