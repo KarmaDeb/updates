@@ -1,6 +1,11 @@
-VERSION: WU-45/57/74.44
+VERSION: WU-46/58/76.45
 UPDATE: https://karmaconfigs.github.io/updates/LockLogin/version/release/LockLogin.jar
 [LIST=CHANGELOG]
+&3Most notable changes in &a1.13.31
+ &bFixed plugin messages was not being regenerated when typing locklogin reload and language
+  &bchanged in configuration
+ &bFixed plugin properties were generating problems when version changed
+
 &3Most notable changes in &a1.13.30
  &bFixed virtual id
  &bAdded the possiblity to translate PIN inventory
