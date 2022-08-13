@@ -1,22 +1,15 @@
-VERSION: WU-46/58/76.45
+VERSION: WU-47/59/78.46
 UPDATE: https://karmaconfigs.github.io/updates/LockLogin/version/snapshot/LockLogin.jar
 [LIST=CHANGELOG]
-&3Most notable changes in &a1.13.31
+&3Most notable changes in &a1.13.32
+ &bMade all the web requests made from the plugin asynchronous
+
+&3Most notable changes in &c1.13.31
  &bFixed plugin messages was not being regenerated when typing locklogin reload and language
   &bchanged in configuration
  &bFixed plugin properties were generating problems when version changed
 
-&3Most notable changes in &a1.13.30
+&3Most notable changes in &c1.13.30
  &bFixed virtual id
  &bAdded the possiblity to translate PIN inventory
-
-&3Most notable changes in &a1.13.29
- &bFixed plugin was not triggering UserPostJoinEvent in spigot
-
-&3Most notable changes in &a1.13.28
- &bChanged plugin permission system completely
-
-&3Most notable changes in &a1.13.27
- &bFixed plugin was not loading correctly modules
- &bFixed plugin was not correctly storing files data ( REQUIRES KARMAAPI PLATFORM UPDATE )
 [/LIST=CHANGELOG]
