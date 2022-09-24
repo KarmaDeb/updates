@@ -1,2 +1,6 @@
-<1.1>
-- Fixed sql code
+<1.2>
+- Added discord webhooks
+- Added script locales
+- Added map blips
+- Added vehicle GPS system
+- Fixed PDA profile changing image was not working
