@@ -1,15 +1,21 @@
-VERSION: WU-47/59/78.46
+VERSION: WU-48/60/80.47
 UPDATE: https://karmaconfigs.github.io/updates/LockLogin/version/snapshot/LockLogin.jar
 [LIST=CHANGELOG]
-&3Most notable changes in &a1.13.32
+&3Most notable changes in &a1.13.33
+ &bWoke up plugin from sleep
+
+ &bFixed plugin was not searching correctly for client names
+ &baffecting the account remove and alt accounts finder.
+ 
+ &bFixed plugin was not showing console message sometimes,
+ &bby this fix, the filter for console has also been improved
+
+ &bRemoved plugin log upload system temporally until changes
+ &bare made to its system
+
+ &bAdded support drop alert for Velocity servers ( no servers using it )
+ 
+
+&3Most notable changes in &c1.13.32
  &bMade all the web requests made from the plugin asynchronous
-
-&3Most notable changes in &c1.13.31
- &bFixed plugin messages was not being regenerated when typing locklogin reload and language
-  &bchanged in configuration
- &bFixed plugin properties were generating problems when version changed
-
-&3Most notable changes in &c1.13.30
- &bFixed virtual id
- &bAdded the possiblity to translate PIN inventory
 [/LIST=CHANGELOG]
