@@ -1,0 +1,4 @@
+1.0.0
+https://www.spigotmc.org/resources/add
+&3Most notable changes in 1.0.0
+ &bPlugin released

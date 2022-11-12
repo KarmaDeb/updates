@@ -1,6 +1,12 @@
-WU-48/60/80.47
+WU-49/61/82.48
 https://karmaconfigs.github.io/updates/LockLogin/version/snapshot/LockLogin.jar
-&3Most notable changes in &a1.13.33
+&3Most notable changes in &a1.13.34
+ &bImplemented panic tokens
+ &bFixed sessions feature was not working
+ &bAdded end of life date for Velocity plugin support, after
+  &b01/01/2023, LockLogin wont load anymore under Velocity
+
+&3Most notable changes in &c1.13.33
  &bWoke up plugin from sleep
 
  &bFixed plugin was not searching correctly for client names
@@ -13,7 +19,3 @@ https://karmaconfigs.github.io/updates/LockLogin/version/snapshot/LockLogin.jar
  &bare made to its system
 
  &bAdded support drop alert for Velocity servers ( no servers using it )
- 
-
-&3Most notable changes in &c1.13.32
- &bMade all the web requests made from the plugin asynchronous
