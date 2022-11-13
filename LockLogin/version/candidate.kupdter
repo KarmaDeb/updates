@@ -1,23 +1,15 @@
-VERSION: WU-49/61/82.48
+VERSION: WU-50/62/84.49
 UPDATE: https://karmaconfigs.github.io/updates/LockLogin/version/candidate/LockLogin.jar
 [LIST=CHANGELOG]
-&3Most notable changes in &a1.13.34
+&3Most notable changes in &a1.13.35
+ &bFixed an issue in where plugin would not promp
+  &bauthentication messages after switching servers
+  &band quitting. This would also cause sessions or
+  &bpremium module to not work properly.
+
+&3Most notable changes in &c1.13.34
  &bImplemented panic tokens
  &bFixed sessions feature was not working
  &bAdded end of life date for Velocity plugin support, after
   &b01/01/2023, LockLogin wont load anymore under Velocity
-
-&3Most notable changes in &c1.13.33
- &bWoke up plugin from sleep
-
- &bFixed plugin was not searching correctly for client names
- &baffecting the account remove and alt accounts finder.
- 
- &bFixed plugin was not showing console message sometimes,
- &bby this fix, the filter for console has also been improved
-
- &bRemoved plugin log upload system temporally until changes
- &bare made to its system
-
- &bAdded support drop alert for Velocity servers ( no servers using it )
 [/LIST=CHANGELOG]
