@@ -1,7 +1,11 @@
-VERSION: WU-50/62/84.49
+VERSION: WU-51/63/86.50
 UPDATE: https://karmaconfigs.github.io/updates/LockLogin/version/candidate/LockLogin.jar
 [LIST=CHANGELOG]
-&3Most notable changes in &a1.13.35
+&3Most notable changes in &a1.13.36
+ &bFixed the plugin was not loading some modules
+  &bthat required to be started after plugin setup.
+
+&3Most notable changes in &c1.13.35
  &bFixed an issue in where plugin would not promp
   &bauthentication messages after switching servers
   &band quitting. This would also cause sessions or
