@@ -1,6 +1,11 @@
-WU-51/63/86.50
+WU-52/64/88.51
 https://karmaconfigs.github.io/updates/LockLogin/version/candidate/LockLogin.jar
-&3Most notable changes in &a1.13.36
+&3Most notable changes in &a1.13.37
+ &bFixed pin inventory was something not being showed
+ &bFixed the plugin was not correctly closing the pin inventory in BungeeCord
+ &bThe pin inventory now will be open also on player movement if required
+
+&3Most notable changes in &c1.13.36
  &bFixed the plugin was not loading some modules
   &bthat required to be started after plugin setup.
 
@@ -9,9 +14,3 @@ https://karmaconfigs.github.io/updates/LockLogin/version/candidate/LockLogin.jar
   &bauthentication messages after switching servers
   &band quitting. This would also cause sessions or
   &bpremium module to not work properly.
-
-&3Most notable changes in &c1.13.34
- &bImplemented panic tokens
- &bFixed sessions feature was not working
- &bAdded end of life date for Velocity plugin support, after
-  &b01/01/2023, LockLogin wont load anymore under Velocity
