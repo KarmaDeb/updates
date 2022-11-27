@@ -21,7 +21,7 @@
 	],
 	"notification": {
 		"level": 10,
-		"message": "&aLockLogin 1.13.25 has been released. After updating, make sure to follow the steps specified in the update entry: https://www.spigotmc.org/resources/rd-locklogin.75156/update?update=461704!",
+		"message": "&aLockLogin 1.13.38 requires to be updated in all your servers: https://www.spigotmc.org/resources/rd-locklogin-the-best-authentication-plugin-%E2%9C%85-fast%E2%9A%A1-reliable%E2%AD%90-secure%E2%AD%95.75156/update?update=480348",
 		"settings": {
 			"config": false,
 			"proxy": false
