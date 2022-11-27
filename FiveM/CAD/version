@@ -1,9 +1,7 @@
-<1.2>
-- Added discord webhooks
-- Added script locales
-- Added map blips
-- Added vehicle GPS system
-- Fixed PDA profile changing image was not working
+<1.3>
+- Fixed PDA was not correctly removing vehicles
+  that were beign tracked and had a GPS installed
+  on them
 
 How to update? 
 Navigate to: https://keymaster.fivem.net/asset-grants
