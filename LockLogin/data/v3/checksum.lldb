@@ -4,6 +4,7 @@ Google_Guava_adler: 4241935111
 Log4j_adler: 217741531
 Log4j_Web_adler: 993548242
 Remote_Messaging_adler: 3411176868
+Socket_IO_adler: 134414007
 LockLoginManager_adler: 2731292759
 
 Apache_Commons_crc: 2418094782
@@ -12,4 +13,5 @@ Google_Guava_crc: 4146188870
 Log4j_crc: 556285814
 Log4j_Web_crc: 308611953
 Remote_Messaging_crc: 4022847772
+Socket_IO_crc: 2726544904
 LockLoginManager_crc: 3943627850
