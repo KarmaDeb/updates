@@ -1,0 +1,14 @@
+("main"
+
+	'version' -> "1.0.3"
+
+	'update_url' -> {
+		'https://www.spigotmc.org/resources/closedblockselevator-fast-and-optimized-%E2%9C%85-custom-recipes%E2%AD%95-itemsadder-%E2%AD%90.105696/'
+	}
+
+	'changelog' -> {
+		'&cImportant changes'
+		' &bThe plugin now supports ItemsAdder'
+		' &bMade the transitions a little bit more smooth'
+	}
+)
