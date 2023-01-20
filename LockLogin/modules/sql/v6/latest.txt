@@ -1,0 +1,2 @@
+1.2.7
+https://locklogin.eu/modules/sql/v6/LockLoginSQL.jar
