@@ -1,0 +1,19 @@
+("main"
+
+	'version' -> "WU-55/67/94.54"
+
+	'update_url' -> {
+		'https://karmaconfigs.github.io/updates/LockLogin/version/snapshot/LockLogin.jar'
+	}
+
+	'changelog' -> {
+		'&3Most notable changes in &a1.13.40 RC'
+		' &bAdded more password configuration'
+		' &bAdded permission configuration'
+		''
+		'&3Most notable changes in &c1.13.39 SNAPSHOT'
+		' &bCaptcha is now disabled by default'
+		' &bCompletely reworked communication system'
+		' &bThe plugin will now be using the new updater system'
+	}
+)
