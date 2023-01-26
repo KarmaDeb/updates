@@ -1,10 +1,13 @@
-VERSION: 1.0.2
+VERSION: 1.0.5
 UPDATE: https://www.spigotmc.org/resources/closedblockselevator.105696/
 [LIST=CHANGELOG]
-&3Most notable changes in 1.0.2
- &bFixed mining the block with fortune would cause dupes
- &bFixed mining the block in creative would drop the item
+&3Most notable changes in 1.0.5
+ &bFixed an issue with modern minecraft server versions
 
-&3Most notable changes in 1.0.1
- &bAdded crafting recipe
+&3Most notable changes in 1.0.4
+ &bFixed an issue related with ItemsAdder
+ &bImproved ItemsAdder support
+ 
+&3Most notable changes in 1.0.3
+ &bAdded items adder support
 [/LIST=CHANGELOG]
