@@ -1,11 +1,15 @@
 ("main"
-    'version' -> "WU-58/70/100.57"
+    'version' -> "WU-59/71/102.58"
 
 	'update_url' -> {
 		'https://karmadev.es:2083/locklogin'
 	}
 
     'changelog' -> {
+    	'&3Most notable changes in &a1.13.44 RC'
+    	' &bAdded periodical backups'
+    	' &bFixed locations were not being processed correctly'
+    	''
     	'&3Most notable changes in &a1.13.43 RC'
     	' &bFixed an issue with pin inventory buttons'
     	' &bAdded memory to BungeeCord servers for web services'
