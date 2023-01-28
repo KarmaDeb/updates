@@ -1,19 +1,26 @@
 ("main"
-
-	'version' -> "WU-55/67/94.54"
+    'version' -> "WU-58/70/100.57"
 
 	'update_url' -> {
-		'https://karmaconfigs.github.io/updates/LockLogin/version/candidate/LockLogin.jar'
+		'https://karmadev.es:2083/locklogin'
 	}
 
-	'changelog' -> {
-		'&3Most notable changes in &a1.13.40 RC'
-		' &bAdded more password configuration'
-		' &bAdded permission configuration'
-		''
-		'&3Most notable changes in &c1.13.39 SNAPSHOT'
-		' &bCaptcha is now disabled by default'
-		' &bCompletely reworked communication system'
-		' &bThe plugin will now be using the new updater system'
-	}
+    'changelog' -> {
+    	'&3Most notable changes in &a1.13.43 RC'
+    	' &bFixed an issue with pin inventory buttons'
+    	' &bAdded memory to BungeeCord servers for web services'
+    	''
+    	'&3Most notable changes in &c1.13.42 RC'
+    	' &bFixed an issue with spawn feature'
+    	''
+    	'&3Most notable changes in &c1.13.41 RC'
+    	' &bImplemented LockLogin web services communication system'
+    	''
+    	'&3Most notable changes in &c1.13.40 RC'
+    	' &bAdded more password configuration'
+    	' &bAdded permission configuration'
+    	' &bCaptcha is now disabled by default'
+    	' &bCompletely reworked communication system'
+    	' &bThe plugin will now be using the new updater system'
+    }
 )
