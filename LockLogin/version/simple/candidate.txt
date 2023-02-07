@@ -1,6 +1,14 @@
-WU-61/73/106.60
-https://karmaconfigs.github.io/updates/LockLogin/version/candidate/LockLogin.jar
-&3Most notable changes in &a1.13.46 RC
+WU-63/75/110.62
+https://karmaconfigs.es:2083/locklogin
+&3Most notable changes in &a1.13.48 RC
+ &bFixed the plugin was not using the correct update URLs
+ &bStarted the implementation of backup command
+ &bThe plugin will be able to work without the updater now
+
+&3Most notable changes in &c1.13.47 RC
+ &bFixed the plugin was not able to start on spigot servers
+
+&3Most notable changes in &c1.13.46 RC
  &bImplemented plugin metrics
 
 &3Most notable changes in &c1.13.45 RC
