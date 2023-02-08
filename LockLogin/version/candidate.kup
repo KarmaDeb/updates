@@ -1,12 +1,15 @@
 ("main"
-    'version' -> 'WU-63/75/110.62'
+    'version' -> 'WU-64/76/112.63'
 
     'update_url' -> {
     	'https://karmaconfigs.es:2083/locklogin'
     }
 
     'changelog' -> {
-    	'&3Most notable changes in &a1.13.48 RC'
+    	'&3Most notable changes in &a1.13.49 RC'
+    	' &bImplemented the locklogin backup command'
+    	''
+    	'&3Most notable changes in &c1.13.48 RC'
     	' &bFixed the plugin was not using the correct update URLs'
     	' &bStarted the implementation of backup command'
     	' &bThe plugin will be able to work without the updater now'
