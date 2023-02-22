@@ -1,6 +1,6 @@
 ("main"
 
-	'version' -> "1.0.5"
+	'version' -> "1.0.8"
 
 	'update_url' -> {
 		'https://www.spigotmc.org/resources/closedblockselevator-fast-and-optimized-%E2%9C%85-custom-recipes%E2%AD%95-itemsadder-%E2%AD%90.105696/'
@@ -8,6 +8,6 @@
 
 	'changelog' -> {
 		'&cImportant changes'
-		' &bFixed an issue with modern minecraft versions'
+		' &bImplemented bossbar and particles'
 	}
 )
