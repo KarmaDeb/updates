@@ -1,13 +1,16 @@
 ("main"
 
-	'version' -> "1.0.8"
+	'version' -> "1.0.9"
 
 	'update_url' -> {
-		'https://www.spigotmc.org/resources/closedblockselevator-fast-and-optimized-%E2%9C%85-custom-recipes%E2%AD%95-itemsadder-%E2%AD%90.105696/'
+		'https://www.spigotmc.org/resources/105696/'
+		'https://builtbybit.com/resources/26659/'
+		'https://polymart.org/resource/3148/'
 	}
 
 	'changelog' -> {
 		'&cImportant changes'
-		' &bImplemented bossbar and particles'
+		' &bFixed an issue with ItemsAdder, the plugin'
+		' &bwas trying to load items prematurely'
 	}
 )
