@@ -1,6 +1,6 @@
 ("main"
 
-	'version' -> "1.0.9"
+	'version' -> "1.0.10"
 
 	'update_url' -> {
 		'https://www.spigotmc.org/resources/105696/'
@@ -10,7 +10,6 @@
 
 	'changelog' -> {
 		'&cImportant changes'
-		' &bFixed an issue with ItemsAdder, the plugin'
-		' &bwas trying to load items prematurely'
+		' &bAdded elevator disguise filter in configuration'
 	}
 )
