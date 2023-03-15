@@ -1,20 +1,52 @@
-WU-64/76/112.63
+WU-72/84/128.71
 https://karmaconfigs.es:2083/locklogin
-&3Most notable changes in &a1.13.49 RC
- &bImplemented the locklogin backup command
+&3Most notable changes in &a1.13.57
+ &bBungeeCord client sessions are now always verified
+ &bAdded spanish translation to plugin properties
 
-&3Most notable changes in &c1.13.48 RC
- &bFixed the plugin was not using the correct update URLs
- &bStarted the implementation of backup command
- &bThe plugin will be able to work without the updater now
+&3Most notable changes in &c1.13.55/56
+ &bFixed the plugin was trying to hook into ProtocolLib even without it
+ &bInternal plugin security improvements
+ &bFixed an issue that caused the player to be sent through servers in a loop
 
-&3Most notable changes in &c1.13.47 RC
- &bFixed the plugin was not able to start on spigot servers
+&3Most notable changes in &c1.13.54
+ &bFixed premium was trying to be applied for BungeeCord connections
+  &bfrom bukkit &e(ticket#0443)
 
-&3Most notable changes in &c1.13.46 RC
- &bImplemented plugin metrics
-
-&3Most notable changes in &c1.13.45 RC
+&3Most notable changes in &c1.13.40 - 1.13.53 RC
+ &bFixed an issue when a client turned off premium
+ &bFixed an issue when removing an account it would require
+  &ba server restart to fix a visual bug
+ &bAdded more password configuration
+ &bAdded permission configuration
+ &bCaptcha is now disabled by default
+ &bCompletely reworked communication system
+ &bThe plugin will now be using the new updater system
+ &bImplemented LockLogin web services communication system
+ &bFixed an issue with spawn feature
+ &bFixed an issue with pin inventory buttons
+ &bAdded memory to BungeeCord servers for web services
+ &bAdded periodical backups
+ &bFixed locations were not being processed correctly
+ &bIncremented message queue for BungeeCord to 200ms while using LockLogin web services
+ &bImplemented the premium command internally, with full platform support
+ &bImplemented Turkish translation &e(ticket#0441)
+ &bImplemented Turkish properties translation &e(ticket#0441)
+ &bFixed the plugin was showing messages for already loggin players if they logged too fast, for example,
+  &bwhile using sessions
+ &bUpdated the plugin licensing system to be more robust
+  &bImproved plugin performance in BungeeCord
+  &bFixed plugin was not correctly protecting teleporting clients to spawn &e(ticket#0440)
+  &bFixed plugin was not working properly when a client disconnected, causing
+   &bthe client to be disconnected for login timeout &e(ticket#0440)
+  &bFixed the captcha actionbar was being shown even with captcha disabled &e(ticket#0440)
+  &bFixed BlockTime for bruteforce being in zero not disabling temporal ban &e(ticket#0440)
+  &bFixed plugin was not verifying pin setup input, causing invalid pins to be setted and causing
+   &bthe player unable to login &e(ticket#0440)
+  &bFixed spigot was throwing an error when a client disconnected during bungeecord validation
+  &bAdded an option on password check to ignore known passwords
+  &bImplemented poland translation file &e(ticket#0440)
+  &bImplemented poland properties translation file &e(ticket#0440)
  &bAdded an option to inform the player only about the reasons
   &bof why his password is unsafe
  &bUpdated a comment on the config which wasn't correctly explaining how
@@ -24,24 +56,9 @@ https://karmaconfigs.es:2083/locklogin
  &bAdded messages to modify the password messages
  &bFixed a message was not being shown in the corresponding color
  &bFixed some messages were being shown with u.c prefix
-
-&3Most notable changes in &c1.13.44 RC
- &bAdded periodical backups
- &bFixed locations were not being processed correctly
-
-&3Most notable changes in &c1.13.43 RC
- &bFixed an issue with pin inventory buttons
- &bAdded memory to BungeeCord servers for web services
-
-&3Most notable changes in &c1.13.42 RC
- &bFixed an issue with spawn feature
-
-&3Most notable changes in &c1.13.41 RC
- &bImplemented LockLogin web services communication system
-
-&3Most notable changes in &c1.13.40 RC
- &bAdded more password configuration
- &bAdded permission configuration
- &bCaptcha is now disabled by default
- &bCompletely reworked communication system
- &bThe plugin will now be using the new updater system
+ &bImplemented plugin metrics
+ &bFixed the plugin was not able to start on spigot servers
+ &bFixed the plugin was not using the correct update URLs
+ &bStarted the implementation of backup command
+ &bThe plugin will be able to work without the updater now
+ &bImplemented the locklogin backup command
