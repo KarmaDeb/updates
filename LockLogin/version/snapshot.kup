@@ -1,12 +1,16 @@
 ("main"
-    'version' -> 'WU-74/86/132.73'
+    'version' -> 'WU-75/87/134.74'
 
     'update_url' -> {
     	'https://karmaconfigs.es:2083/locklogin'
     }
 
     'changelog' -> {
-    	'&3Most notable changes in &a1.13.59'
+    	'&3Most notable changes in &a1.13.60'
+    	' &bFixed module commands in BungeeCord'
+    	'  &bwere not parsing arguments'
+    	''
+    	'&3Most notable changes in &c1.13.59'
     	' &bFixed the send to server setting was not working'
     	' &bUpdated the plugin KarmaAPI to use the latest (which'
     	'  &balso fixes problems with /premium command)'
