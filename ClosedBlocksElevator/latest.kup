@@ -1,6 +1,6 @@
 ("main"
 
-	'version' -> "1.0.11"
+	'version' -> "1.0.12"
 
 	'update_url' -> {
 		'https://www.spigotmc.org/resources/105696/'
@@ -10,6 +10,11 @@
 
 	'changelog' -> {
 		'&cImportant changes'
-		' &bFixed a duplication bug related to pistons'
+		' &bParticles are now available on all versions'
+		' &bParticle visibility can now be modified by'
+		'  &bright clicking the elevator while sneaking'
+		'  &band empty hand' 
+		' &bAdded elevator.particle permission, to view all'
+		'  &belevator particles'
 	}
 )
