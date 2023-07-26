@@ -1,12 +1,24 @@
 ("main"
-    'version' -> 'WU-77/89/138.76'
+    'version' -> 'WU-79/91/142.78'
 
     'update_url' -> {
-    	'https://karmaconfigs.es:2083/locklogin'
+    	'https://www.spigotmc.org/resources/75156'
     }
 
     'changelog' -> {
-    	'&3Most notable changes in &a1.13.62'
+    	'&3Most notable changes in &a1.13.64'
+    	' &bFixed an issue that was causing login/register messages'
+    	'  &band timer not working properly'
+    	' &bFixed an issue that was causing block operator setting'
+    	'  &bnot working'
+    	' &bFixed an issue that was causing block operator setting not'
+    	'  &bworking if Vault was not in the server'
+    	' &bFixed an issue related with LuckPerms'
+    	''
+    	'&3Most notable changes in &c1.13.63'
+    	' &bRemoved web services'
+    	''
+    	'&3Most notable changes in &c1.13.62'
     	' &bFixed a problem related to premium mode in spigot mode'
     	''
     	'&3Most notable changes in &c1.13.61'
