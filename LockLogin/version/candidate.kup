@@ -1,12 +1,16 @@
 ("main"
-    'version' -> 'WU-79/91/142.78'
+    'version' -> 'WU-80/92/144.79'
 
     'update_url' -> {
     	'https://www.spigotmc.org/resources/75156'
     }
 
     'changelog' -> {
-    	'&3Most notable changes in &a1.13.64'
+    	'&3Most notable changes in &a1.13.65'
+    	' &bOptimized the plugin by making it ignore command block'
+    	'  &bcommands &e-&3 snakehugo'
+    	''
+    	'&3Most notable changes in &c1.13.64'
     	' &bFixed an issue that was causing login/register messages'
     	'  &band timer not working properly'
     	' &bFixed an issue that was causing block operator setting'
