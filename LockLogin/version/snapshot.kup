@@ -1,12 +1,19 @@
 ("main"
-    'version' -> 'WU-80/92/144.79'
+    'version' -> 'WU-81/93/146.80'
 
     'update_url' -> {
     	'https://www.spigotmc.org/resources/75156'
     }
 
     'changelog' -> {
-    	'&3Most notable changes in &a1.13.65'
+    	'&3Most notable changes in &a1.13.66'
+    	' &bAdded /account register command, to force register an'
+    	'  &baccount'
+    	' &bFixed an issue that was causing the plugin to ignore'
+    	'  &bpermissions configuration'
+    	' &cAdded new unstranslated messages '
+    	''
+    	'&3Most notable changes in &c1.13.65'
     	' &bOptimized the plugin by making it ignore command block'
     	'  &bcommands &e-&3 snakehugo'
     	''
