@@ -1,12 +1,15 @@
 ("main"
-    'version' -> 'WU-81/93/146.80'
+    'version' -> 'WU-82/94/148.81'
 
     'update_url' -> {
     	'https://www.spigotmc.org/resources/75156'
     }
 
     'changelog' -> {
-    	'&3Most notable changes in &a1.13.66'
+    	'&3Most notable changes in &a1.13.67'
+    	' &bFixed an issue with json commands'
+    	''
+    	'&3Most notable changes in &c1.13.66'
     	' &bAdded /account register command, to force register an'
     	'  &baccount'
     	' &bFixed an issue that was causing the plugin to ignore'
