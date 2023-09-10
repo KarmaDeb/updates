@@ -1,12 +1,16 @@
 ("main"
-    'version' -> 'WU-82/94/148.81'
+    'version' -> 'WU-83/95/150.82'
 
     'update_url' -> {
     	'https://www.spigotmc.org/resources/75156'
     }
 
     'changelog' -> {
-    	'&3Most notable changes in &a1.13.67'
+    	'&3Most notable changes in &a1.13.68'
+    	' &bFixed an issue related with some BungeeCord forks causing'
+    	' &bLockLogin to not work properly'
+    	''
+    	'&3Most notable changes in &c1.13.67'
     	' &bFixed an issue with json commands'
     	''
     	'&3Most notable changes in &c1.13.66'
