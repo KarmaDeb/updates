@@ -1,6 +1,10 @@
-WU-83/95/150.82
+WU-84/96/152.83
 https://www.spigotmc.org/resources/75156
-&3Most notable changes in &a1.13.68
+&3Most notable changes in &a1.13.69
+ &bAdded a setting to allow premium players to
+ &bnot require register 
+
+&3Most notable changes in &c1.13.68
  &bFixed an issue related with some BungeeCord forks causing
  &bLockLogin to not work properly
 

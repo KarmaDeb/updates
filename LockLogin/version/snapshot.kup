@@ -1,12 +1,16 @@
 ("main"
-    'version' -> 'WU-83/95/150.82'
+    'version' -> 'WU-84/96/152.83'
 
     'update_url' -> {
     	'https://www.spigotmc.org/resources/75156'
     }
 
     'changelog' -> {
-    	'&3Most notable changes in &a1.13.68'
+    	'&3Most notable changes in &a1.13.69'
+    	' &bAdded a setting to allow premium players to'
+    	' &bnot require register '
+    	''
+    	'&3Most notable changes in &c1.13.68'
     	' &bFixed an issue related with some BungeeCord forks causing'
     	' &bLockLogin to not work properly'
     	''
