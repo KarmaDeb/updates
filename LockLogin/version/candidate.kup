@@ -1,12 +1,17 @@
 ("main"
-    'version' -> 'WU-84/96/152.83'
+    'version' -> 'WU-85/97/154.84'
 
     'update_url' -> {
     	'https://www.spigotmc.org/resources/75156'
     }
 
     'changelog' -> {
-    	'&3Most notable changes in &a1.13.69'
+    	'&3Most notable changes in &a1.13.70'
+    	' &bFixed an issue in where the plugin would not use'
+    	'  &bthe correct updating channel'
+    	' &bThe plugin now requires KarmaAPI platform 1.3.4-16'
+    	''
+    	'&3Most notable changes in &c1.13.69'
     	' &bAdded a setting to allow premium players to'
     	' &bnot require register '
     	''
