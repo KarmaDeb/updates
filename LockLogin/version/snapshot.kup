@@ -1,12 +1,25 @@
 ("main"
-    'version' -> 'WU-85/97/154.84'
+    'version' -> 'WU-86/98/156.85'
 
     'update_url' -> {
     	'https://www.spigotmc.org/resources/75156'
     }
 
     'changelog' -> {
-    	'&3Most notable changes in &a1.13.70'
+    	'&3Most notable changes in &a1.13.71'
+    	' &bAddressed an issue related to the plugin not shutting down'
+    	'  &btasks correctly'
+    	' &bAddressed an issue related to the plugin not assigning premium'
+    	'  &bmode correctly to the clients when running on spigot'
+    	' &bImproved PlaceholderAPI support'
+    	' &bAdded a new placeholder %locklogin_premium% which displays'
+    	'  &bif the client is premium'
+    	' &bAddressed a visual bug in where login/register message would be'
+    	'  &bsent even if the player was already logged when he joins the server'
+    	' &bAddressed an issue in where the plugin filter would filter commands'
+    	'  &bwhich started with a similar syntax to LockLogin commands (/reg -> /region) '
+    	''
+    	'&3Most notable changes in &c1.13.70'
     	' &bFixed an issue in where the plugin would not use'
     	'  &bthe correct updating channel'
     	' &bThe plugin now requires KarmaAPI platform 1.3.4-16'
