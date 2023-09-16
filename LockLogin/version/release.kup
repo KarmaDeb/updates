@@ -17,7 +17,7 @@
     	' &bAddressed a visual bug in where login/register message would be'
     	'  &bsent even if the player was already logged when he joins the server'
     	' &bAddressed an issue in where the plugin filter would filter commands'
-    	'  &bwhich started with a similar syntax to LockLogin commands (/reg -> /region) '
+    	'  &bwhich started with a similar syntax to LockLogin commands (/reg /region)'
     	''
     	'&3Most notable changes in &c1.13.70'
     	' &bFixed an issue in where the plugin would not use'
