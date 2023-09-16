@@ -20,8 +20,8 @@
 		"&d------------------------------"
 	],
 	"notification": {
-		"level": 10,
-		"message": "&aLockLogin 1.13.38 requires to be updated in all your servers: https://www.spigotmc.org/resources/rd-locklogin-the-best-authentication-plugin-%E2%9C%85-fast%E2%9A%A1-reliable%E2%AD%90-secure%E2%AD%95.75156/update?update=480348",
+		"level": 1,
+		"message": "&cLockLogin prior to 1.13.70 will stop working soon, please update your plugin!",
 		"settings": {
 			"config": false,
 			"proxy": false
