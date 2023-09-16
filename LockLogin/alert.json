@@ -20,7 +20,7 @@
 		"&d------------------------------"
 	],
 	"notification": {
-		"level": 1,
+		"level": 10,
 		"message": "&cLockLogin prior to 1.13.70 will stop working soon, please update your plugin!",
 		"settings": {
 			"config": false,
