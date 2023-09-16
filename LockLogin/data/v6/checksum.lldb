@@ -1,0 +1,24 @@
+("main"
+
+    ("adler"
+        'JarRelocator' -> 2325558393
+        'Google_Authenticator' -> 293225421
+        'Log4j' -> 217741531
+        'Log4j_Web' -> 993548242
+        'Google_Guava' -> 4241935111
+        'Apache_Commons' -> 3916456401
+        'SocketIO' -> 134414007
+        'LockLoginManager' -> 4042931084
+    )
+
+    ("crc"
+        'JarRelocator' -> 2733622318
+        'Google_Authenticator' -> 868364232
+        'Log4j' -> 556285814
+        'Log4j_Web' -> 308611953
+        'Google_Guava' -> 4146188870
+        'Apache_Commons' -> 2418094782
+        'SocketIO' -> 2726544904
+        'LockLoginManager' -> 869416130
+    )
+)
