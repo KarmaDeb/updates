@@ -1,6 +1,16 @@
-WU-86/98/156.85
+WU-88/100/160.87
 https://www.spigotmc.org/resources/75156
-&3Most notable changes in &a1.13.71
+&3Most notable changes in &a1.13.73
+ &bFixed an issue while generating numbers for the pin GUI
+
+&3Most notable changes in &c1.13.72
+ &bFixed notifications system not working
+ &bFixed error messages when joining/leaving the server
+ &bFixed command processor was not working properly
+ &bFixed SpawnDistance setting was not working properly
+ &bLast location not longer gets removed once used
+
+&3Most notable changes in &c1.13.71
  &bAddressed an issue related to the plugin not shutting down
   &btasks correctly
  &bAddressed an issue related to the plugin not assigning premium
@@ -11,7 +21,7 @@ https://www.spigotmc.org/resources/75156
  &bAddressed a visual bug in where login/register message would be
   &bsent even if the player was already logged when he joins the server
  &bAddressed an issue in where the plugin filter would filter commands
-  &bwhich started with a similar syntax to LockLogin commands (/reg -> /region) 
+  &bwhich started with a similar syntax to LockLogin commands (/reg /region)
 
 &3Most notable changes in &c1.13.70
  &bFixed an issue in where the plugin would not use

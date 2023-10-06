@@ -1,12 +1,22 @@
 ("main"
-    'version' -> 'WU-86/98/156.85'
+    'version' -> 'WU-88/100/160.87'
 
     'update_url' -> {
     	'https://www.spigotmc.org/resources/75156'
     }
 
     'changelog' -> {
-    	'&3Most notable changes in &a1.13.71'
+    	'&3Most notable changes in &a1.13.73'
+    	' &bFixed an issue while generating numbers for the pin GUI'
+    	''
+    	'&3Most notable changes in &c1.13.72'
+    	' &bFixed notifications system not working'
+    	' &bFixed error messages when joining/leaving the server'
+    	' &bFixed command processor was not working properly'
+    	' &bFixed SpawnDistance setting was not working properly'
+    	' &bLast location not longer gets removed once used'
+    	''
+    	'&3Most notable changes in &c1.13.71'
     	' &bAddressed an issue related to the plugin not shutting down'
     	'  &btasks correctly'
     	' &bAddressed an issue related to the plugin not assigning premium'
