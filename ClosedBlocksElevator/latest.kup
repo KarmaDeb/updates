@@ -1,20 +1,17 @@
 ("main"
+    'version' -> '1.0.13'
 
-	'version' -> "1.0.12"
+    'update_url' -> {
+    	'https://polymart.org/resource/3148'
+    	'https://www.spigotmc.org/resources/105696/'
+    	'https://builtbybit.com/resources/26659/'
+    }
 
-	'update_url' -> {
-		'https://www.spigotmc.org/resources/105696/'
-		'https://builtbybit.com/resources/26659/'
-		'https://polymart.org/resource/3148/'
-	}
-
-	'changelog' -> {
-		'&cImportant changes'
-		' &bParticles are now available on all versions'
-		' &bParticle visibility can now be modified by'
-		'  &bright clicking the elevator while sneaking'
-		'  &band empty hand' 
-		' &bAdded elevator.particle permission, to view all'
-		'  &belevator particles'
-	}
+    'changelog' -> {
+    	'&cImportant changes'
+    	' &bFixed elevators duplication bug'
+    	' &bFixed elevator particle view policy was not'
+    	' &bbeing able to be changed'
+    	' &bUpdated github update check URL'
+    }
 )
