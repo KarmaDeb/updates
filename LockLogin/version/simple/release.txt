@@ -1,6 +1,9 @@
-WU-88/100/160.87
+WU-89/101/162.88
 https://www.spigotmc.org/resources/75156
-&3Most notable changes in &a1.13.73
+&3Most notable changes in &a1.13.74
+ &bUpdated the plugin QR code generation URL
+
+&3Most notable changes in &c1.13.73
  &bFixed an issue while generating numbers for the pin GUI
 
 &3Most notable changes in &c1.13.72
