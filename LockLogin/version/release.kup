@@ -1,12 +1,15 @@
 ("main"
-    'version' -> 'WU-90/102/164.89'
+    'version' -> 'WU-91/103/166.90'
 
     'update_url' -> {
     	'https://www.spigotmc.org/resources/75156'
     }
 
     'changelog' -> {
-    	'&3Most notable changes in &a1.13.75'
+    	'&3Most notable changes in &a1.13.76'
+    	' &bFixed register title was being show when login in'
+    	''
+    	'&3Most notable changes in &c1.13.75'
     	' &bFixed plugin premium mode not working on 1.20.2'
     	''
     	'&3Most notable changes in &c1.13.74'
